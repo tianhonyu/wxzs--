@@ -1,0 +1,20 @@
+version: "1
+
+services:
+  # app:
+    build: ./
+    ports:
+      - 80:8080
+    volumes:
+      - ./:/app
+    environment:
+      - TZ=Asia/Shanghai
+  python:
+    image: python:3.12.0b2-bullseye
+    volumes:
+      - python:/data
+    environment:
+      - TZ=Asia/Shanghai
+
+volumes:
+  python:

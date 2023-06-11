@@ -1,0 +1,2555 @@
+Videos; Smart TV; Task analysis; Recurrent neural networks; Motion pictures; Markov processes; Sun; Parallel modeling; shared account recommendation; cross-domain recommendation; sequential recommendation
+field experiment; pricing and revenue management; reinforcement learning; synthetic control methods
+Negative sampling; Generative adversarial network; Recommendation; Bipartite graph; Knowledge graph
+
+Qualitative evidence synthesis; Pregnancy; Weight management care recommendations; Clinical guidelines; Birth Territory Theory
+Recommender system; Collaborative filtering; Item-based CF; User-based CF; Cold start; Data sparsity
+guideline; sudden cardiac death; ventricular arrhythmias; ventricular tachycardia
+conversational chatbot; chatbot; dialogue system; dialogue response; dialogue strategies; dialogue generation; machine learning; conversational agents
+7P marketing strategy; Behavioural intentions; Gratification; Value of nature; Perceived trust; Performance expectancy; Parasocial interaction
+Booking; com; ski accommodation; data analysis; online reservations
+correlation; databases; ethers; surface tension
+intertemporal choice with double-dated mixed outcomes; change in intertemporal choice; self-rated surviving achievement; bian tong (change and through); 18-country cross-national comparison
+Home Literacy Model; home literacy resources; shared book reading; language development; hearing impairment
+CTR prediction; Disaggregating; Deep learning; Recommendation systems
+Personalized recommendation; Graph convolutional network; Node similarity association; Layer attention
+Cortisone injection; Injection; Corticosteroids; Recommendations
+education; video games; serious games; English language; language learning; second language; mobile application; knowledge retention; reward system; usability
+recommendation system; knowledge graph embedding; multi-task learning; attention mechanism
+Mobile health; Service-dominant logic; Machine learning; Text analytics; Proportional-odds logit
+psychomotor agitation; childhood; children; adolescents; aggressiveness; psychopharmacological treatments
+Cirsium ehrenbergii; Historical ethnopharmacology; Anti-inflammatory activity; Antidepressant -like activity; Linarin
+Review; Metadata; Book cover; Book rating prediction; Machine learning; Deep learning
+Antimicrobials; Antimicrobial resistance; Antimicrobial stewardship; AWaRe antibiotics; Health care facilities; Public policies; Standard treatment guidelines
+stroke; rehabilitation; exercise therapy; home exercise program; FitMi; mRehab; sensors
+Ethiopian urban drinking water system; Integrated water management; Sub-Saharan Africa; Sustainable water supply; Urban water distribution network
+Trends; theory; barriers; correlates
+e-commerce; Online communities; Arabic online consumer reviews; Social networks; Word-of-mouth recommendations
+K Nearest Neighbour; Collaborative Filtering; Cosine Similarity; Pearson Correlation; Hit Rate; Coverage
+books recommendation; sentiment analysis; machine learning; cloud; CNN; LSTM
+criminalization; discretion; harm; punishment; enforcement; offenses; defenses
+the NAS of Ukraine; book culture; scholarly research book; electronic publication; quality metrics; publishing standards; and quality of publication
+Strategic cost management cost reduction sustainable development
+Recommender systems; Hybridization; KNN; Word2vec
+OBSTETRICS; NEONATOLOGY; PRIMARY CARE
+Morocco; momentum; market status
+deprivation; determinants of MPI; poverty; rural poverty
+Higher education; development; growth; support
+Black; African American Travel; Legitimacy theory; Critical race theory
+
+Cardiac; Tumors; Dataset; Protocol; Checklist; Structured report; Synoptic report; Pathology
+gestational diabetes mellitus; incidence; IADPSG; diabetes; risk factors; diagnostic criteria; United Arab Emirates
+Antenatal care; Determinants; Ethiopia
+AR digital picture book; science learning self-efficacy; cross-cultural environmental education; environmental attitudes; environmental behavior
+autism; adults; health care services; qualitative research; primary care; access to care
+
+cerebral palsy; swallowing difficulties; dysphagia; food texture modification
+recommender systems; knowledge graph; graph neural networks; personalized recommendation
+Korean Demilitarized Zone (DMZ); endemic species; freshwater fish biodiversity; biogeographic regions
+long memory; generalized autoregressive conditional heteroscedasticity (GARCH) models; value-at-risk (VaR); expected shortfall (ES); traffic-light test; backtesting
+food education program; culturally tailored program; health promotion; educational materials; Pakistani women; immigrant
+GOST; standard; national standard; international standard; publishing
+online social network; friend recommendation; fine-grained interest; evolving feature tag; online learning community
+career development; self-identity; preservice teachers at science and technology universities; design thinking
+Health information systems; antiviral drug resistance; hiv; surveillance evaluation; Mozambique
+Sudden cardiac death; Ventricular arrhythmias; Ventricular tachycardia; Implantable cardioverter defibrillators; Catheter ablation
+DC motors; Synchronous motors; Induction motors; IEEE Standards; Standards; Monitoring; Variable speed drives
+book; child development; parental attitudes; parental practices; shared reading
+Early reading; Children's books; Content analysis; Literacy
+Pregnancy; HIV PMTCT; HIV viral load monitoring; HIV; AIDS; Human Immunodeficiency Virus
+Early timing; Preteen sexuality knowledge; Sexual health promotion; Child sexual abuse prevention; Learning readiness
+Predict-observe-explain; Design-based research; E-book; Interactive e-book; Physics; Multimedia
+recommender systems; smart cities; taxi; taxi applications; taxi contents
+Collaborative filtering; Privacy protection; Graph neural networks; Federated transfer learning; Personalized recommendation systems; Privacy-preserving
+supply chain; cattle; sustainability; categorization
+Outpatient specialist medical care; Health care research; Evaluation; Routine data analysis; Remuneration and reimbursement system
+recommender systems; knowledge graph; heterogeneous link propagation; personalized; relationship
+text message; SMS; immunization reminder; reminder-recall; routine immunization; childhood; immunization; reminder; children; language barrier; Canada; vaccine; vaccination; coverage
+Multi -Cycle Production; Renewable Energy; Generation Evolution Planning; Sustainable Power; Energy Sources
+Recommender systems; Implicit feedback; Nearest neighbor; User modeling; Bayesian inference; Ranking
+Digitization; digital library management systems; digital library software; digital libraries; features of DLMS
+Substance-assisted psychotherapy; psychotherapy; psychedelics; therapeutic rationale; therapeutic conduct; preparation
+Supervised contrastive learning; Graph convolution network; Recommended system; Representational learning
+Air -rail integrated service (ARIS); Air -rail passenger; Transfer time; Ticket booking data; Passenger heterogeneity
+
+
+Information resource circulation; Recommendation system; User access pattern; Academic library; Association rule; Collaborative filtering algorithm; Data mining
+
+Public library; recommendation algorithm; collaborative filtering; association rule
+financial instruments; London stock exchange; IASB; IFRS; Olson model; value relevance
+perceived text difficulty; graded readers; many-facet Rasch measurement; extensive reading; pleasure reading
+Hybrid recommendation; knn; kmeans; collaborative filtering
+cancer information; information source; mammogram; breast cancer; cancer screening; cancer health equity; church-goers; racial health disparities
+species range; glacial relicts; opossum shrimp; small lakes; Vologda oblast
+adults; virtual reality; immersive virtual reality; aging; systematic review; qualitative evidence synthesis; thematic synthesis
+blow fly; time of colonization; decomposition; total body score
+
+
+
+Cybercrimes; Cyber coronavirus crime; Laws and regulations; Covid-19; Indonesia
+Behcet's disease; uveitis; diagnostic criteria; ocular investigation; immunosuppression; biologics; COVID-19
+
+Attention neural networks; Explainable recommendation; Review-based recommender systems; Knowledge graph; Personalization
+English as Language of Instruction; Biology teaching and learning; Inquiry-based learning strategies; Sub-Saharan Africa; Systematic review
+Matrix factorisation; explainable recommendation; feature extraction
+Schoolbooks; Animals; Agency; Health; Food; Environment; Sustainability
+teaching profession; professional identity; international organizations; comparative education
+Taxi route planner; location recommendation; route decision; deep learning; multi-criteria optimization
+Perturbation methods; Recommender systems; Privacy; Encryption; Differential privacy; Motion pictures; Internet; Privacy; recommendation; rating perturbation
+Care counselling; Supply structures; German care reform; Health literacy; Autonomy
+Utility-based business rule analytics; Digital content monetization; Free-to-fee conversion; Recommendation system; Association rule mining
+IR4.0 adoption; industrial revolution; data-driven leadership; CEO characteristics; multiple directorships
+Recommendation system; books; cosine similarity; sequence matcher; semantic similarity; content-based algorithm
+Intercity ridesharing; Railway strike; BlaBlaCar; Price stability; Price recommendation
+Fuzzy linear programming; Fuzzy constraints; Fuzzy optimization; Uncertain optimization
+appointment and schedule; hospital administration; health communication
+
+
+
+Digital twin; Public service delivery; E-government; Internet of Thing (IoT); Robo advisory
+Data sparsity; Cold start; Hybrid recommendation; Data decomposition; Clustering
+hospital brand equity; health; hospital; perceived quality; systematic literature review; PRISMA
+activity monitoring of humans in bed; abnormal behavior detection and forecasting; comprehensive anomaly concept definition; explainability and interpretability of detected anomalies; uncertainty modeling; early warning capability; behavior evolution identification and system adaptivity; verification and validation; anomaly detection and prediction; scenario analysis; selected use-cases; user perspectives of practical interest; real-world context-aware and practically realistic specification book; comprehensive critical state-of-the-art review; system architecture and system engineering related recommendations
+inherited knowledge system; human resource; learning; training; hands-on experience; prolonged engagement; culture and tradition; handloom industry of Sri Lanka
+filtering techniques; neural network; graph convolution neural network
+Awareness; early detection; glaucoma; satisfaction; screening
+integrative nutrition package; intervention; growth; development; children; stunting
+Biological system modeling; Ontologies; Deep learning; Task analysis; Feature extraction; Bioinformatics; Training; Biomedical relation extraction; information retrieval; knowledge graphs; text mining
+Intermittent preventive treatment; Malaria; Pregnancy; Community distribution; Antenatal care
+Attention mechanism; feature interaction; intention prediction; neural networks; online travel planning
+Linear regression; Book lending; Collaborative filtering; Personalized; Recommendation system
+Fractional differential equation; University Library; Book lending model; Collaborative filtering
+Mobile application; Minor ailments; Community pharmacists
+
+Literacy Context; Children's Literature; Contextualization; Reading; Families
+Cardiovascular Diseases; Exosomes; Extracellular Vesicles; Gene Therapy; microRNAs
+Persian medicine; modern medicine; individualized nutrition; temperament (Mizaj); individualized medicine; functional food; epigenetic; nutrigenomics; nutrigenetic; holistic medicine; partial medicine
+waiting lists; nurse managers; community health centers; administrators; time management; South Africa
+Iris magnifica (Vved.) F.O. Khass.; Rare species; Red Book; Decorative; Medicinal; Distribution map; Plant community
+design; cancer screening; childhood cancer survivor; late effects; surveillance; cancer; cancer survivor; morbidity; mortality; cancer treatment; mammogram; echocardiogram
+temperature; relative humidity; wet-dry cycles; indoor mold prevention
+named entity recognition; fixed-domain relation extraction; open-domain relation extraction; knowledge graph; handshaking tagging scheme; BERT
+Community question-answers (cQA); VCs; Language modeling; Topic modeling; BERT fine tuning; e-books
+Customer relationship management; big data; Apache Spark; Spark SQL; recommendation system
+Dietary guidelines; Optimal dietary pattern; Cancer; Linear goal programming; Hospitalized patients; Dietary Intake
+
+depression; HIV; non-communicable diseases; PLHA
+online; general education; scientific posters; asynchronous; natural science; STEM-science technology engineering mathematics; large enrollment; virtual poster session
+Hip fracture; aged; barriers and enablers; qualitative; implementation science
+Vulvar diseases; Racial inequities
+
+textbook; tutorial; ideological propaganda; J.V. Stalin
+Campylobacter spp.; chicken meat; epidemiology; sanitation systems; probiotic bacteria
+
+correlation; databases; esters; surface tension
+
+Collaborative filtering; Data sparsity; Digital twin; Digital twin campus; Double-layer mining; Recommendation system
+government policy; informal sector; social transformation; stakeholder engagement
+forced migration; interpreters; mental health; good practice guidelines
+Carbon neutral; Print-on-demand; COVID-19 pandemic; Returns; Supply chain; Bookstores
+Recommender system; Machine learning; Content-based filtering; Collaborative filtering; Deep learning; Review
+antidiabetic drugs; Helichrysum species; medicinal plants; diabetes mellitus; compounds
+early detection; NDD; neurodevelopmental disorder; ASD; autism spectrum disorder; PND; postnatal depression; mHealth; mobile health; real-world study; autism; parenting; pediatric; children; mobile phone; smartphone; mobile health app; digital health intervention; digital product; algorithm
+gender bias; gender disparities; medical education; qualitative analysis; resident assessment
+knowledge graph; recommendation; transductive learning; collaborative signal
+phonetic competence; rhythm and intonation skills; principles of choice of the material; model of rhythm and intonation formation
+
+E-commerce; decision-making; opinion mining; reputation generation; feature- based summarization
+Alcohol; Antimicrobial; Combinations; Fat; Honey; Interactions; Medicinal plants; Milk; Salt; Southern Africa; Sugar; Synergy; Vinegar
+Psycho-oncology; Cancer; Practice-based research; Implementation; Dissemination; Stepped-care; Complex intervention; Quality improvement
+Recommender system; Knowledge graph; Collaborative signal; Attention mechanism
+
+developmental language disorder; intensity; intervention; model of delivery; pragmatic skills; targets
+Clinical practice guidelines (CPGs); World federation of; acupuncture-moxibustion societies (WFAS); Acupuncture-moxibustion manipulation; Conditional recommendation; Ancient literature; Evidence
+
+Down syndrome; thyroid abnormality; Ethiopia
+flow cytometry; high DNA stainability; sperm chromatin structure analysis; sperm DNA damage
+Learning resources recommendation; deep learning; knowledge search; matrix factorization; deep matrix factorization
+Feature extraction; optimal rating; optimization; recommendation system; similarity index
+extraintestinal symptoms; fatigue; fatty acids; gastrointestinal symptoms; irritable bowel syndrome (IBS); minerals; starch- and sucrose-reduced diet (SSRD); vitamins
+palliative care; telemedicine; COVID-19
+Flipped classroom; in-class flipped classroom; academic achievement; planning skill; primary school
+Design pattern; word embedding; Word2Vec; semantic similarity; tag recommendation; design pattern selection
+Social network; smartphone applications; web applications; interactive user interfaces; user-centered design; hotel booking systems
+digital upgrades; hotel revenue management; loyalty programs; management of technology; strategic behavior
+
+COVID-19 pandemic; Education; e-learning; Pharmacology; Attitude; Survey
+WHO classification of thyroid tumors; Papillary thyroid carcinoma; Follicular thyroid carcinoma; High-grade thyroid carcinoma; Anaplastic thyroid carcinoma; Poorly differentiated thyroid carcinoma; Medullary thyroid carcinoma; Thyroblastoma; Cribriform-morular thyroid carcinoma; Hyalinizing trabecular tumor; Follicular nodular disease
+VASER; Lipectomy; Graft survival; Perilipin-1
+
+
+Standard Forms Selection; Construction Contracts; Text analysis; Multi-Criteria Decision-Making; Visualization
+Semantic similarity; Ontology; Cross-domain recommendation; Collaborative filtering; PrefixSpan
+endometriosis; guideline; fertility; pelvic pain; adolescent; surgery; ESHRE guideline
+core outcome set; clinical practice guidelines; consensus study; fertility; male fertility; modified Delphi method; randomized controlled trials; reproductive healthcare; reproduction; systematic review
+Failed induction; Labor; Women; University of Gondar Specialized Hospital
+artificial intelligence; work; Amazon; Mechanical Turk (MTurk); digital utopia; human intelligence task (HIT); artificial artificial intelligence (AAI); microwork
+digital workplace; digital transformation; change management; systematic literature review
+Astragalus holargyreus; ontogenesis; Kyzyl Kum desert; Bukantau ridge; ontogenetic structure; local population
+Dividend pay-out; investment behaviour; value; structural vector autoregressions; non-recursive restrictions; impulse response; Nigeria
+Recommender systems; Knowledge graph; Attention mechanism; Multistage clustering
+Evidence-based framework; family digital media; library programming; public libraries; community engagement
+Personalized recommendation; Category hierarchy; Temporal dynamics; Adversarial training; Academic services
+chromosomes; chemistry; ethnomedicine; pharmacology; taxonomy
+Lung; Cancer; Pathology; Immunohistochemistry; Molecular pathology; Adenocarcinoma; Squamous cell carcinoma
+Epidemiology; Causes of death; Violence; Forensic medical assessment; Preventive measures
+COVID-19; dexamethasone; methylprednisolone; corticosteroids; inflammatory impacts; pharmacokinetics; pharmacodynamics
+governing evidence use; improving evidence use; nutrition policy; policy process; Canada Food Guide
+assortment optimization; multinomial logit model; appointment scheduling; approximation scheme; E-commerce
+
+child; disaster; Emergency Medicine; JumpSTART; pediatric
+augmented reality; comic; critical thinking; science learning
+Federated learning; Collaborative filtering; Pair-wise learning; Matrix factorization
+Digital libraries; Book purchase; NLP; Text classification; Neural networks; Deep learning
+Insomnia; CBT; very long-term follow-up; treatment effects
+
+Deep neural network; Collaborative filtering; Matrix factorization; Twofold regularization; Recommender system
+retention; comic book; identification; STEM; Hispanic; Latina
+Recommendation systems; Knowledge graph; Multi-task learning; Feature cross
+airline ancillary pricing; dynamic pricing; customized pricing; deep learning
+Recommender system; Knowledge graph; Item feature coefficients; User preference matrix
+Human library; Human book; Living book; Metadata; DSpace; Repository
+appointment; scheduling; outpatient; ambulatory; online; self-serve; e-book; web-based; automation; patient satisfaction; self-scheduling; eHealth; digital health; mobile phone
+Supply chain; Employee wellness; Paradoxical effect; Abductive approach; Food manufacturing and exporting industry; Just-in-time system
+
+Seafood; Sodium chloride (NaCl); Potassium chloride (KCl); Salt reduction; Salt substitutes
+Duchenne muscular dystrophy; Diagnostic announcement; Child; Parents; Caregivers; Book; Communication; Expression of emotions; Information on the disease
+COVID-19; pandemic; operation; surgical volume
+Cyber-attacks; cyber-security; risk assessment; countermeasures
+Session-Based recommender systems; Event stream processing; Kafka; Spark; Machine learning
+e-book; e-book subscription; HBCU; minority education; first-generation learners; Cengage Unlimited; MindTap; student learning success; e-learning; affordable course content; learning materials
+Mobile travel apps; Utilitarian value; Hedonic value; Monetary value; Trust; Recommendation intention
+book review; humanbecoming; nursing; Parse; scholarship
+Harmonic analysis; Standards; IEEE Standards; Power harmonic filters; Power systems; Data models; Industrial power systems
+Conversational search; conversational question answering; conversational recommendation; dialogue systems; chatbots; interactive information retrieval
+toponyms; toponymy of Russia; offi cial toponyms; ordinal numeral; spelling variation; standardization of toponyms; spelling rules; State catalogue of geographical names
+Information flows; Multi-criteria decision analysis; Management processes; Information management; Analytic Hierarchy Process
+Text analytics; Opinion mining; Sentiment analysis; Goodreads; The Way Through the Woods: On Mushrooms and Mourning
+travel company; family tour; children and parents; IT software; Eviews; internet of things; information technology
+
+recommendation; booking; trust; blockchain
+Heterogeneous information network; Meta-Paths; Multilayer Perceptron; Recommendation method
+controlled digital lending; library services; pandemic; copyright; e-books
+Information propagation; recommender systems; ranking; item-user; weighted network
+recommender systems; tagging; books; dataset; tag genome; item-tag rating; tag relevance
+multimedia recommender systems; collaborative filtering; popularity bias; algorithmic fairness
+Book club; Professional development; AI education; AI literacy; Teacher preparation.
+Early Child Care and Education; Quality Education; Standard Curriculum; Teacher Development; Leadership and Management; CPD
+Academic social network; Academic influence; Social influence; Neural matrix decomposition
+Human-centric Issues; Human Factors; eHealth; e-Booking; Web-based Booking System; Elderly; Language; Culture; Accessibility
+Recommender System; Collaborative Filtering; Contrastive Learning; Graph Neural Network
+Upbringing Cultural Environment; Children's Art; Innovative Activities; Pedagogical Strategy; Training of Teachers to Organize an Upbringing Environment; Professional Competencies of a Teacher; Socio-cultural Experience; Early Age (from birth to three years)
+Recommender systems; Feature extraction; Biological system modeling; Data models; Standards; Visualization; Estimation; Information filtering; recommender systems; data visualization; service modeling
+Computational creativity; natural language generation; LSTM; association rule mining
+Islamic turns; liminal stage; naturalized citizenship; individuality arrangement; representational ingestion
+Algorithmic fairness; Recommender systems; Popularity bias; Item popularity; Book recommendation; Reproducibility
+Semantics; Metadata; Recommender systems; Computational modeling; Motion pictures; Matrix decomposition; Symbiosis; Linked open data; cross-domain recommender system; semantic relatedness; item metadata; user cold start
+Knowledge engineering; Computer architecture; Database systems; Information management; Monitoring; Business; Software engineering; Service transaction; n-tier architecture; database transaction processing; transaction processing monitor; local transaction; global transaction; X; Open XA; JTA
+pharmaceutical care; pharmacy employee; diarrhea; minor ailment; oral rehydration solutions
+Value relevance; Compliance; Disclosure; IFRS 7
+Recommendation system; Knowledge graph; Representation learning
+Recommender systems; Collaborative filtering; Evaluation; Mean absolute error; Precision
+Facility layout problem (FLP) and Simulated annealing (SA).
+Social networking Influencers; Buy Purposes; Brand name Devotion; Instagram; Malaysia
+toddler's recipes; similarity-based recommendation; food analysis; nutritional information; ingredient co-occurrence network; network analysis; cosine similarity; term frequency-inverse document frequency (tf-idf)
+Information Retrieval; Semantic Similarity; Artificial Intelligence; e-Commerce
+Recommender Systems; Book Recommendation; Content-Based Filtering; Named Entities; Book Front Cover; Book Similarity; Natural Language Processing; Deep Learning
+Company governance; economic affirmation fraudulence; Malaysia; MCCG 2017; mediators; complying; table self-reliance; panel payoff time; plank sexual category; plank age group; aboard racial; review panel freedom; review panel knowledge; table dimensions; exam panel measurement; prospective deceptive organizations; non-potential deceptive companies
+Universal Decimal Classification; record keeping; arrangement
+information filtering; recommender systems; collaborative filtering; user-based CF; item-based CF; multi-criteria ratings; fusion recommendations; sparsity; hotel recommendations; recommendation accuracy
+Decision support; Digital traces; User digital life model; User type; Ontology classification; Type-sensitive recommendations
+sociality; Adam Smith; liberal economics; classical economics; rationality; moral judgment
+Thymoma; WHO classification; thymic epithelial neoplasms; atypical thymoma
+Decision support systems; Human AI collaboration; Intelligent system; Knowledge management
+Travel destination prediction; Neural network
+Learning resource recommendation; Session-based recommender system; NARM; GRU4Rec
+antenatal care; follow-up; full antenatal care; home delivery; institutional delivery
+Library; Automation; Information System; Green Well Matongo Community
+public health; community child health; maternal medicine
+Intelligent library; internet of things; situational awareness; information fusion; data fusion
+Tourism recommendation; Big Five Factor (BFF); Myers-Briggs type indicator (MBTI) 16 personality type; Mass diffusion method
+Sequential recommendation; knowledge graph; graph neural network; gated recurrent unit
+Nearest neighbour algorithm; Greedt algorithm; Swarm inteligence; Combinatorial problems
+E-commerce; Deep neural network; Collaborative filtering; Alternating least square; Matrix factorization
+Departure time prediction; Light gradient boosting machine; Data analysis; Feature engineering; Loss assessment
+Augmented reality; binocular camera; accurate feature match; point cloud reconstruction
+structured data extraction; web information extraction
+Progressive Self-Attention; Interpretability; Sequential Recommendation
+Digital nudge; E -commerce; Recommender system; Flight booking; Behavioral bias; Attraction effect
+Key online reviews; Online reviews; Online hotel booking; Review content; Reviewer characteristics
+Personalized travel recommendation; group decision-making; multi-attribute collaborative filtering; social trust network; user community detection
+
+savoring; positive emotion regulation; happiness; well-being; positive psychology
+recommender systems; consideration set; consumer purchases; field experiment; causal mediation analysis
+clinical ethics committees; clinical ethics; ethics consultation; withholding treatment; quality improvement
+
+
+3D virtual reality; anti-drug abuse course; usage intention; senior high school students; decomposed theory of planned behavior
+Recommender systems; Travel recommendation; Neural network; Graph neural network; Personalized attention
+prenatal care; care pathway modelling; maternal mortality; Zimbabwe
+
+Book recommendation; Machine learning; Meaning system; Blind persons
+neurosurgery residency; NRMP; National Residency Matching Program; neurosurgery matching; neurosurgery applicants; program directors
+Breast reconstruction; Acellular dermal matrix; Radiotherapy; Breast implant; Capsular contracture; Pseudoepithelium
+Influenza; Immunisation; Vaccination schedule; Year-round; Young children; Pregnancy; High income countries; Antenatal care; Hong Kong
+A-PRF; centrifuge; C-PRF; I-PRF; platelet-rich fibrin guidelines; platelet-rich plasma; preparation; RCF; recommendations; regenerative medicine; RPM; standardization
+child development; child nutrition; child mortality; cognitive; early childhood development
+colorants; pigments; dyes; coatings; paints; solventborne coatings; waterborne coatings; powder coatings; radiation-curing systems; coil coatings; plastic coatings; automotive coatings; thermochromic pigments; photochromic microcapsules; electrochromic pigments; phosphorescent pigments
+Coping strategies; COVID-19; Mental health; College students; Psychopathology; Positive psychology; Social support
+Smart libraries; RFID based book location classification; MSPCA; ImRMR; Bagged Tree
+knowledge graph; personalized recommendation; attention aggregation
+Decision making; Expert system; Pairwise comparisons; Recommender system; Clustering
+item response theory; multidimensionality; machine learning; collaborative filtering; joint maximum likelihood
+health services research; health research data centre; claims data; administrative data
+anal incontinence; anal sphincter injury; meta-analysis; perineal trauma; systematic review
+Policy; Mobile payment; Critical review; Hospitality research; Tourism research
+Essential health services; Triple setup; COVID-19; SPHMMC; Ethiopia
+academic and technology books; demand effect; multiple regression analysis; recommendation network; recommendation systems; social network analysis
+Socioeconomic status; TIMSS achievement; self-reported measures; register-reported measures
+Recommender systems; Bias; Provider fairness; Geographic groups; Data imbalance; Disparate impact
+Community health worker; Training; Education; Continuing education; Health workforce
+Reading habits; Smartphone addiction; High school students
+Motion pictures; Correlation; Collaboration; Feature extraction; Videos; Internet; Companies; Actor; content-based recommendation; movie recommendation system; South Korea
+Fairness; Rankings; Recommendations
+
+
+attention mechanism; cross-features; deep neural network; information fusion; matrix factorization; recommendation system
+Hotels; Revenue management; Booking window; Forecasting; Consumer behavior
+Reading; Studying; Medical students; Clinical clerkships
+clinical psychology; cognitive behaviour therapy; psychiatry; psychosis; schizophrenia
+Road safety; Human factors methods; Sociotechnical systems; Risk management framework
+digital content consumption; consumption rate; incomplete consumption; information good; online review; review quality
+Picture book; geriatrics education; gerontology education; intergenerational understanding; stakeholder engagement design
+
+Influenza; cancer; vaccination; vaccine hesitancy; Japan
+Sharing economy; Airbnb; Over-dispersion; Text analytics; Hurdle models
+Recommender system; Diversity; Greedy optimization; DBpedia; Knowledge graph embedding; Deep learning
+Anarchic Society Optimization; E-learning; Hybrid recommendation; Support vector machine; Machine learning
+Chatbot; Health care; Expertise; Professional ethics; COVID-19
+correlation; databases; esters; surface tension
+recommender systems; knowledge-enhanced recommendation; collaborative filtering; knowledge graph; self-supervised learning
+Chineseness; Tourist gaze; Behavioural complexity; Cultural essentialism; ??; ????; ?????; ?????; Caracter chino; Mirada del turista; Esencialismo cultural; Complejidad del comportamie
+Asteraceae; Dicoma species; Sesquiterpene lactones; Ethnomedicine; Pharmacological uses
+Instructional methods; Learning outcomes; Meta-analysis; Pre-service science teachers
+Recommender systems; Collaborative filtering; Implicit relations; Deep learning
+Children's literature; Religion; Biography; Scientists; Award-winners
+
+Routine recommendations; Alternative birth practices; Refusal; Therapeutic hesitancy
+Potable water; sustainability; public enlightenment; water pricing; remuneration packages
+automated recommendation; hotel booking system; heterogeneous network data; data processing; points of interest; review analysis; score generation
+quality evaluation in tourism; online guest' reviews; evaluation criteria; statistical analysis
+reference prices; pricing; multi-channel supply chain; online book market
+
+Recommender system; explainable artificial intelligence machine learning; Word2vec
+consumption; incentive; gamification; fruit; vegetable; healthy eating
+network security; user behavior; trust evaluation; fuzzy Petri net; weight optimization
+Recommender system; Temporal dynamics; Collaborative filtering; Data sparsity; Topic model; User preference drift; Review-based recommender system
+COVID-19; SME; Bank loan; Government subsidy; Wang transform
+Web Mining; Web Recommendations; Collaborative Filtering; Content Based Filtering; Hybrid Filtering
+Osteoarthritis; low-dose radiotherapy; pain; functioning; safety; Nrf2
+book evaluations; book publishing; performance-based funding; performance-based research funding systems (PRFS)
+
+Super-Recognizers; Face processing; Diagnostic criteria; Law enforcement; Legal cognitive neuroscience
+Bipartite ranking; Discounted cumulative gain; Latent factor models; Matrix factorization; Mean average precision; Recommender systems
+precision education; artificial intelligence; AI; multimodal technologies; technology-enhanced learning; personalized learning; smart learning environments; immersive technology; learning analytics; K-12 education
+Explanatory power; Fairness; Accuracy; Collaborative filtering; Data characteristics
+econometrics; evaluation design and research; observational data; quasi-experiments; program evaluation
+Tax Management; Book-Tax Differences (BTD); Cost of Equity
+Latin America; structural and parametric reforms and re-reforms; public and private pensions; ILO principles; performance
+Amphetamines; Cocaine; Illicit drugs; Male infertility; Male reproductive system; Marijuana; Opioids
+recommender systems; efficient recommendation; collaborative filtering; graph convolution networks; contrastive learning
+psychological ownership; OTT service; psychological distance; contents recommendation; construal level theory
+Non-performing/Problem loans; Litigation and non-litigation Ways; Mortgage Agreements; Banking institutions
+Depression burden; Depression classification; Depression treatment; Food; Herbal extracts. Phytochemicals
+Fare product; Conjoint analysis; Segmentation; Revenue management; Simulation
+Group recommendation; Group rating; Group service; Long-term composed services
+Internet; Addiction; Students; COVID-19; Tanta; Egypt
+Perceived usefulness; Adoption; Koha; Integrated library system; Koha adoption; Koha perceived usefulness
+Revenue management; Time-dependent; Simulation; Dynamic programming
+Recommendation algorithm; Neural network; Attention mechanism; Attribute embedding; Label encoding
+Autoencoders; Recommender systems; Feature engineering; BookCrossing; User autoencoder; Item autoencoder
+Hotel selection problem; Multi-website information fusion; Online ratings; Online reviews; PLTS
+Recommender systems; privacy protection; blockchain; survey
+pavement design; pavement analysis; thermal stress/strain; deflection; asphalt; concrete
+Conversational Agent; Artificial Intelligence; Services; Medicine; Clinics
+Prediction algorithms; Neural networks; Predictive models; Mathematical model; Heterogeneous networks; Research and development; Recommender systems; Heterogeneous information network (HIN); network representation learning; neural network; recommendation system
+Collaborative filtering; High-frequency data; Latent factor models; Limit-order book; Liquidity; Market quality; Matrix completion; Volatility; Recommender systems
+
+
+N-gram; Tri-gram; Language model; Word ordering error; Sequential pattern; Interactive system; E-learning; Java; Soft cosine similarity
+Behaviour change; Curriculum; Education; Health promotion; Sub-Saharan Africa; WASH
+Strategic HRM; HRM systems; measurement; methodology; HPWP; employee performance
+
+decision making; hospital management; health technology assessment; hospital based health technology assessment; innovative medical technologies
+Collaborative Tagging; Folksonomy; Knowledge Graph; Emergent Semantic; Spectral Clustering; Recommender System; Context-awareness
+Smart city; Green building industry; Innovation ecosystem; System coupling mechanism
+Land use change; land cover change; China-Central Asia-West Asia Economic Corridor; accuracy assessment; reference data; classification algorithm
+Decision-making; Association rule; Data mining; Library recommendation
+Pacific Islands; Gastropoda; endemic; Lymnaeidae; Neritidae; Cochliopidae
+
+student youth; Internet; search and recommendation system; attitude
+Scientific Literacy; Android-Based Comics; Learning Media
+
+reinforcement learning; recommender system; clustering; book recommendation
+Children's digital library; Social media service; Library promotion; Information engagement; Information seeking; Confirmatory factor analysis
+
+
+Comprehension; Family literacy; Literature; Community&#8208; based programs; resources &lt; Family literacy; Awards &lt; Literature; Multicultural literature; Nonfiction; Fiction; Children&#8217; s literature; 1&#8208; Early childhood; 2&#8208; Childhood; 3&#8208; Early adolescence; 4&#8208; Adolescence
+Urban haze; PV systems; irradiance; performance; reven
+Value engineering; cost estimation; floor systems; decision-making; structural optimization; artificial neural networks; preliminary design
+
+Laparoscopy; Age; Endometrial
+Plectranthus madagascariensis; Plectranthus madagascariensis var. aliciae; Plectranthus aliciae; Plectranthus madagascariensis var. madagascariensis; Plectranthus hirtus; Lamiaceae; Ethnobotanical use; Phytochemicals; Biological activity
+
+Machine learning; Book descriptions; Recommendation systems; Content-based filtering; Natural language processing
+Barriers; Consumer resistance; Food delivery apps (FDAs); Innovation resistance theory; Online to offline (O2O); Structural equation modelling (SEM); Word of mouth (WOM)
+
+spherical hesitant fuzzy sets; logarithmic aggregation operators; entropy measure; decision making
+Heterogeneous information networks; mental health prediction
+
+Banking stocks; non-period bound model; period bound model; target price accuracy; target price achievement
+Library automation; book recommendation system; library integrated system; title similarity; support vector machine; open source
+Antipsychotics; gestational diabetes; pregnancy
+Recommendation systems; Flipped classrooms; Preclass preparation; Learning analytics; Learning outcomes
+Quercus infectoria galls; Pharmacognosy; Phytochemistry; Pharmacology; Toxicology
+
+meta-analysis; single-case experimental designs; moderators
+Traditional uses; Phytochemistry; Chemical profile; Pharmacology; Toxicology
+Practitioner; Research-implementation gap; Restoration ecology; Survey; Urban ecology; Urban restoration
+Voronoi diagrams; Collaborative filtering; Recommendation algorithm; Scalability
+Electronic health records; Digital technology; Clinical decision support system; Guideline; Health care; diabetes
+Delphi questionnaire; Pharmacy education; Pharmaceutical care
+vegetables; perinatal; lactation; infant; preschooler; associative learning; observational learning; conditioning; taste exposure; hedonics
+Vancomycin; Neonate; Pharmacokinetics; Acute kidney injury; Efficacy
+Universal Design for Learning; UDL; students with intellectual disabilities (ID); interventions; systematic review
+Pelvic fracture; Hemorrhage; Hemodynamics; Multiple trauma; Biomechanics
+Recommender Systems; Smart TV; Human-Computer-Interaction; Personalized Recommendations
+Information filtering; Recommendation systems; Citation recommendation; Quantitative analysis; Evaluation metrics
+Matrix decomposition; Forgetting function; User interest; Multifactorial weighted matrix; Recommendation system
+Book reviews; Artificial intelligence; Human factors; Social factors; Government policies; Ethics
+vascular plants; new and rare species; biogeography; species distribution; ecology; population status; Kuril Islands; Iturup Island; Urup Island; Red Data Book
+
+Cephalopelvic disproportion; Delays; Newborn intensive care unit; Singleton pregnancy
+COVID-19; Pandemic; Persian medicine; Respiratory; Prevention
+Extensive reading; extensive reading practices; reading program; reading in the Arab world; teaching reading
+Pesticides; Pollution in forest-ecosystems; Forest vegetation management; Taungya system; Forest plantation
+Vepris; Taxonomy; Traditional medicinal use; Phytochemistry; Bioactivity; Toxicity
+
+Feature extraction; image processing; content-based image retrieval system; Unsupervised Learning
+
+City; Cities; Mayor; Obesity; Childhood obesity; Non-communicable disease; Wider determinants health; Improvement; Transformation
+Mentha spicata; Essential oil; Flatulence; Nafkh; Rih; Pain
+Security; Safety; Provision; Measures; Student housing
+intimate partner violence; domestic violence; batterer intervention program; program evaluation; partner abuse; cognitive behavioral therapy; typology
+Willingness-to-pay; Behavioural heterogeneity; Hierarchical Bayesian; Discrete choice modeling; Recommendation system; COVID-19
+
+Mental health services; primary care; low; and middle-income countries; process evaluation; Nigeria
+nursing; parenting; process model; self&#8208; efficacy; systematic review
+Prevention; Implementation; Behaviour change; Lifecourse epidemiology; Maternal health; Healthcare practice
+evidence&#8208; based interventions; factfulness; female genital cutting; female genital mutilation; global reproductive health and rights
+Weather; dynamic effects; tourist decision-making; inbound tourism; multiple correspondence analysis
+digital library; Latent Dirichlet Allocation (LDA); smart library; user preference
+Library; e-book; reader behaviour; willingness to pay; survey
+Recommender systems; Gender bias; Discrimination; Research methods
+Inter-American Commission on Human Rights; Organization of American States; International law; International courts; Human rights
+Dataset; session-based recommender systems; context-aware recommender systems; tourism; hotel recommendation
+COVID-19; dentistry; emergency; photograph triage
+online shopping; three-dimensional importance&#8211; performance analysis; service quality
+
+Publication channel lists; Research funding; Scholarly communication; Journal ranking
+Clinical studies; Pharmacology; Phytochemistry; Scutellaria; Traditional uses
+
+
+Ebola; Disease outbreak preparedness; Health care systems; Infection prevention control
+Instructional design projects; E-book design; Digital material design; Disposition to critical thinking; Problem solving inventory
+bibliometric analysis; insect invasion; interdisciplinarity; forest ecosystem; non-native species
+Prediction; Recommendation; Airlines; Travel; User evaluation
+Mother-to-child transmission; surveillance system; HIV Infection; Mozambique
+ANN; eWOM; text analytics; guest satisfaction; feature importance; online reviews
+Crossbred pigs; Duroc cross; Eastern Himalayan region; Hampshire cross; Niang Megha cross; Performance; Subtropical climate
+
+Agile scaled framework; SAFe; Quality requirements; Requirements engineering; Documentary analysis; Empirical research; Qualitative interview-based study
+Collaborative Filtering; Data Mining Algorithms; Data Sparsity; Evaluation; Recommender Systems
+Type 2 diabetes mellitus; Women; Menopause; Wellness; Intervention; Feasibility
+feature factorization; entropy; knowledge graphs
+Book recommendation; child; children's literature; teacher; reading
+ART initiation; time to ART initiation; newly diagnosed HIV positive; Ethiopia
+popularity bias; quality of recommendation; social media news feeds; online cultural markets; Audience partisan diversity
+Municipal asset operations; maintenance; performance; metros; rural municipalities
+tourism industry; tourism suggestion system; natural language processing
+Recommender systems; Content-based recommendation; Books
+e-book; continuance intention; expectation-confirmation model; ECM; mobile environment; facilitating conditions; perceived enjoyment
+Medical education; Internship and residency; Evaluation
+Hospitality; Transfers; Customer segmentation; Recommendation system
+Recommendationsystem; collaborativeFiltering; Matrix Factorization
+Recommender systems; Graph neural networks; Knowledge Graph
+Knowledge discovery; Machine learning; Leveled reading
+Industrial and commercial power systems; Codes and standards; Power system analysis; Harmonics; Harmonic distortions; Harmonic modeling and study; Harmonic limits; Harmonic mitigations
+Learning resources recommendation; Deep learning; Knowledge search; Book recommendation; Matrix factorization; Deep matrix factorization
+Community Health Services; Criminal Justice; Mental Health; Severe Mental Illness
+Great Patriotic War; Krasnodar territory; commemorative practices; propaganda; artistic life; museum representation; monuments
+Teenagers; books; recommender systems; metadata
+
+computational linguistics; age content classification; readability; text difficulty; addressee of literary text; Russian language; addressee factor; text corpus; age restrictions
+Personalization; Travel; Recommender Systems; Dataset
+Personalization; Causality; Active Exploration; User Experience
+Personalization; Causality; Deep Learning; Recommender Systems; Active Exploration; Natural Experience; Content Generation; Fairness; Explainability; Uplift Modeling
+Early childhood; Language development; Vocabulary; Systematic review; Interventions
+Sequential recommendation; graph neural networks; inductive learning; transfer learning; attention models
+neurosciences; sociology of the internet; Gerald Bronner; expertise
+Raspberry Pi; RFID; IoT; LSTM; Autoencoders; RNN
+Collaborative filtering; Recommendation; Graph Convolution Network
+
+
+Recommender systems; Exploration-exploitation; Item selection; Set covering
+Online Learning; Multi-Armed Bandits; User Experience; User Interface
+electronic health records; information retrieval; user-centered design; ICU
+resource-based learning; information-learning environment; electronic educational resources; electronic study-guide; hypertext, Dr. Explain
+
+recommender systems; explainability; semi-supervised learning
+nomenclature; terminology; inorganic chemistry; binary compounds; acids; salts; complexes; literary language
+Literature; Creative artifacts; Searching; NLP; Text analysis; Machine learning; Information retrieval; Sentiment mining
+coenoflora; biodiversity; Important Plant Areas; rare species; extrazonal vegetation
+media project; content; database; Information Technology; Internet depository
+MDR-TB; patient care; treatment adherence; all-oral regimen; patient support
+Summarization of recommendation lists; Service blueprints; Explainable AI; Sentiment analysis
+Content analysis method; Learning styles; school Mathematics books
+Machine Learning; Recommendation System; Movie; Books; Clustering; NLP
+Content-based recommendations; Deep learning models; Literary book recommendation
+capital intensity; thin capitalization; ownership structure; board diversity; Generalized Moment Method; Nigeria
+android; mobile app; database; ISBN; book; recommendation
+3004.8; adjustable speed drive; Buff Book; Device 11M; hazardous (classified) locations; motor condition monitoring; motor protection; motor protection relay
+Multimedia web ontology language (MOWL); event; multimedia event ontology language (E-MOWL); Bayesian network (BN); inference
+online hotel booking; antecedent state; moods; tourism; priming
+Chatbots; Model-Driven Engineering; Domain-Specific Languages; Migration
+
+
+Android Booking Application; Smart Parking System; Online Parking Reservation; Parking Mobile Application
+Recommendation System; Data mining; Text mining; Customizing users; RAKE
+Bibliometrics; Electronic mail; Tools; Big Data; Measurement; Social network services; Big scholarly data; big graph; hadoop; apache spark; impact factor; journal and conference ranking
+Matrix; Factorization; DNN; Regularization; LSTM
+Cross-Domain Recommendation; Variational Autoencoder; Collaborative Filtering; Neural Networks
+Domain estimation; small area estimation; Taylor series approximation; transformation
+Personalize book recommendation; recommendation system; clustering; machine learning
+History of otology; Meniere's disease; Ototoxicity; Quinine
+innovative technologies; knowledge-intensive industries; personnel training; intellectual capital; innovation environment; innovation system; technology parks; sociological research; intellectual property; patent legislation
+Marine exposure; Human health; Blue growth; Europe; Oceans and human health
+MTB; consumer satisfaction; intention to recommend; mobile app-based services
+Ontology; semantic information; web documents and modified firefly algorithm
+English as a foreign language; vocabulary learning; learning analytics; e-book reader; recommender system
+
+discrete choice; causal inference; preference learning
+capitalism; market economy; geocentrism; ecological transformation; ordoliberalism; liability; fair distribution; competition; natural; social and human capital; energy tax; inheritance tax; consumption tax
+API recommendation; Collaborative filtering; Software engineering
+high-recall information retrieval; lightweight ontology; usability
+multi-task learning; recommendation; knowledge graph; feature interaction
+Recommendation algorithm; Knowledge graph; Preference
+intangible assets (IAS); goodwill; intellectual capital; accounting accounts; financial accounting; management accounting
+Recommender systems; Social relationship; Knowledge graph; Multi-task
+
+employer brand; employer attractiveness; internal and external resources for the employer brand formation; outsourcing; project metrics; multicriteria analysis; VIKOR method
+methodology; political science; information communications; Internet; social networks; manipulative technologies
+caries treatment; health services research; restorative dentistry; restorative materials; composite materials; clinical outcomes
+Self-service technologies; Bibliomining; Data mining; Borrowing behaviours; User studies
+Saussurea; Aucklandia; Himalayan; Ethnopharmacology; Critically endangered; Conservation
+Thematic; education; globalisation; innovation; international; transnational journalism; Journalism (Profession)
+picture-book apps; app analysis; digital shared reading; interaction analysis; early story comprehension
+Marketing; Digital libraries; E-books; Library users; Digital reading; Perception; Information selection; Reading promotion
+
+Review; Neuroscience; Artificial intelligence; Human Brain Project; Consciousness; Free Will
+Nipple-areola complex; Nipple-areola reconstruction; Nipple-areola surgery; Breast reconstruction; Breast cancer
+Information extraction; Review mining; Tip extraction; Sentiment analysis
+bias; Cohen's d; confidence interval; Hedges' g; meta-analysis; standardized mean difference
+Poisson matrix factorization; recommender systems; side information
+CERQual; evidence-based practice; GRADE; patient portals; personal health records; systematic reviews; umbrella review
+
+e-Recruitment; Job recommender systems; Systematic review; Recommendation methods
+
+
+Complete provider adherence; first ANC visit; Ethiopia
+
+ampicillin; neonate; pharmacokinetics; pharmacodynamics; safety
+ipsilateral; radiation; radiotherapy; tonsil; unilateral
+Cultural similarity; Bipartite configuration model; Book preferences; Goodreads; Quadratic assignment procedure
+Research; theory; phenomenon; concept; variable; model
+hospitalization; literature review; nursing care; patient discharge; patient education
+Data Analytics; Giraph; Pregel; Social Big Data; Social Recommendation
+Cerebrospinal fluid; Cerebrospinal fluid; Brain-spinal fluid; Terminologia Anatomica; Terminologia Neuroanatomica
+Anthroposophic Medicine; Clinical experience; Cross-sectional studies; Medicinal products; Practice-based evidence; Whole medical systems
+recommender systems; collaborative filtering; ant colony optimization; ant collaborative filtering; dimension reduction
+Feature extraction; Optimization; Sparse matrices; Motion pictures; Recommender systems; Estimation; Social networking (online); Content based; optimization; recommendation; relation learning; user preference
+
+Asylum seekers; Refugees; Access to health care; Human rights
+Qualitative; Process design; Global supply chain; Blockchain; Shipping industry; Smart Contract; Freight consolidation
+WHO model list of essential medicines; medicines selection; therapeutic equivalence; interchangeability; biologic medicines
+eWOM valence; eWOM volume; image review; eWOM response management; S-O-R framework
+
+literacy promotion training
+Pre-processing; Recommender systems; Hierarchical clustering; Cluster quality; Optimal selection of clusters; Sparsity reduction
+bookers; conversion rates; e-Tourism; logistic regression; lookers; micro-panel data
+Label enhancement; Unsupervised learning; Collaborative filtering; Topic model
+National park; Experience dimension; Experiential context; Experience; Longitudinal study
+
+library; recommendation; association rules; Bayes
+Book title recognition; Tweet classification; Book title string; Electronic word of mouth; Multi-class classification
+FATF; Challenges; FATF recommendations; Financial system; Successes
+Orthopedic trainee; Residency; Postgraduation; Logbook
+early childhood education; early intervention; early literacy; emergent literacy; family literacy; family literacy programmes; home environments; home-school collaboration; intergenerational literacy; parent involvement
+Islah-e-Advia; Purification; Detoxification; Tadbeer-e-Advia; Processing; Unani medicine
+Product recommendation network; eWOM similarity; Electronic commerce; Network distance
+Risk assessment(boolean AND); Psychosocial factors(boolean AND); Pregnancy(boolean AND); Midwives; Mental health; Mixed methods; (boolean AND)mesh term
+incontinence; lower urinary tract symptoms; neurology; neurourology; overactive bladder; overactive bladder
+Anemia; maternal; meta-analysis; pregnancy; premature birth
+
+Neuroanatomy; Education; Learning; Students; China; Korea
+Mobile application; Recommendation; Tensor decomposition; Multi-view learning
+Cinnamaldehyde; Cinnamomum cassia; Cinnamomum zeylanicum; Cinnamon; Glycated hemoglobin; Glycemia; Type 2 diabetes mellitus
+Hotels; Revenue management; Forecasting; Booking window; Neural networks
+Hotel booking intention; Choice deferral; Anticipated conflicting reactions; Attitude ambivalence; Hotel review; Psychological discomfort
+
+Macular; Anti-VEGF; Aflibercept; COVID-19
+zoonotic disease; North Africa; One Health; veterinary; feline; global health
+Information needs; information-seeking behaviour; information sources; Federal Institute of Industrial Research Oshodi; science and technology researchers
+Apitherapy; Honey pollen; Royal jelly; Menopausal problems
+
+
+Strike; Nursing strike; Sympathy strike; Labor; Union; Bargaining; Collective bargaining
+syphilis; congenital syphilis; incarceration; jail; screening
+IEEE Standards; Induction motors; DC motors; Synchronous motors; Color; Relays; 3004; 8; adjustable speed drive; Buff Book; IEEE color book; motor condition monitoring; motor protection relay; motor protection
+mental health; stress; high school students; intervention; mHealth
+
+Don Hellison; humanistic physical education; models-based practice; practical inquiry; qualitative historiography
+ALM model; Solvency capital requirement; Standard formula; Cash-flow matching; Liquidity gap; Surrender risk; Book value; Profit sharing
+Hemophagocytic syndrome; Hemophagocytic lymphohistiocytosis; Macrophage activation syndrome; Cytokine storm syndrome
+
+
+ANC; Sub-Saharan Africa; Benin; Maternal health; Women
+Social big data; Social recommendation; Social trust; Social influence; Mahout; SNAP; IPG
+erythrocyte transfusion; cesarean section; cost effectiveness
+Popular Scientific Reading Books; Readability; Text Leveling; Mathematical and Science Fields in Elementary Schools
+Religious Education; Religious Teaching; Primary School; Germany; Islamic Religious Course
+Community participation; coronavirus disease 2019; guidelines; health system; India; Kerala; low- and middle-income countries; palliative care; triage
+Rational Choice Theory; Cognition; Culture; Framing; Behavioral Economics
+
+Apitherapy; Cancer; Prevention; Honey; Bee product
+Bereavement; child mortality; neoplasm/mortality; peer group; psychosocial support systems; parents
+holiday accommodations; holidaymakers; online booking; online information search
+
+Palestine; Health information system; Doctor-patient relationships; E-Health systems; Healthcare quality; UNRWA
+folic acid; folic acid supplementation; periconceptional; preconception; reproductive age women; unplanned pregnancy
+a protocol for a systematic review and meta-analysis; early postoperative inflammatory small bowel obstruction; postoperative; PRISMA-P; RCTs; somatostatin
+Heating; ventilation and air-conditioning; Intensive care unit; Indoor air quality; Ventilation; Infection control
+
+Privacy; Recommendation system; Collaborative filtering; Communication complexity; Computation complexity
+
+Neighborhood Attraction; Residential Satisfaction; Environmental Awareness; Social Housing
+
+Integrative treatment; psychiatric Disorders; psychotherapy; elite athletes
+Deep learning; Recommender systems; Embeddings; Side information; Cyclical learning rates; Deep neural network; Cold start problem
+Multicultural education; Cisneros; Activist presses; Publishing; Children's literature; Latinx literature
+Digital media; politics; Sweden; streaming media; spotify; branding; media industries
+Deep learning; Optimization; Side information; Hybrid model; Recommendation system; Collaborative filtering
+Chatbots; Dialogue state tracking; Interest detection system; LSTM; Personalization; RNN; Travel and tourism
+Colon Cancer; Etiology; Cohort; Recurrence
+Sentiment analysis; feature selection; decision tree; support vector machines; Naive Bayes; hotel services
+Traditional European medicine; Phytopharmacy; Oral mucositis; Evidence-based medicine
+
+Infant nutritional physiological phenomena; Weaning; Guidelines as topic; Outcome assessment (health care); Pediatrics
+
+
+High performance; High performance organization; Organizational performance; Literature review
+Recommender systems; Persuasive strategies; User profile; Workplace; Cold start; Preference recommendations
+
+
+Travel product reconunendation; probabilistic matrix factorization; linear regression; multiple auxiliary information; recommender systems
+Place-based learning; Cultural artifacts; realia; Positive emotional energy; Expanded constructs; Contextualized classroom interactions
+Leadership; Directing; Critical hermeneutics theory
+Aim attribution; Social cognition; Artificial intelligence; Presumptuousness; Recommendation; Recommender system; Collaborative filtering; Individuality; Conformity; Ethics
+game development; mobile games; Down syndrome; Trisomy 21; game accessibility; heuristic evaluation; cognitive walkthrough; touchscreen gestural interfaces
+
+Psychotherapies; CBT; Psychoanalysis; Evaluation of psychotherapies; IAPT; NICE
+Information retrieval; Book retrieval; Book recommendation; Social book search; Professional metadata; Social metadata
+Blood cleanser; Holistic healing; African medicinal plants; Blood strengthener; Blood impurities; Spiritual use; Pharmacological activity; Antimicrobial
+Readers' advisory; Diversity; Library ethics; Social justiced; Taste; Feminist aesthetics; Democracy
+Recommender systems; Research paper recommender systems; Algorithms taxonomy; Information retrieval; Survey; Neural networks
+Forensic assertive community treatment; assertive community treatment; serious mental illness; criminal justice
+Recommender systems; content-based recommendations; data availability constraint; training set expansion; small-size training set problem
+Socio-cultural; Tourism; Development; Destination; Nigeria
+
+depression; advice literature; books; quality; guideline adherence
+Recommender system; collaborating filtering; cold start problem; clustering; user based clustering
+homeless services; Housing First; recovery; capabilities
+floor plan; machine learning; prediction; preference; real estate
+recommender systems; recurrent neural networks; multi-period prediction; sequential data analysis
+Recommender systems; Diversity measurement; Diversification; Linked data; Similarity measures; Diversity calibration
+Literature review; Decision support systems; Taxonomy; Hotel revenue management; Modeling techniques
+Recommendation systems; Collaborative filtering; Neighborhood based CF; Similarity measure
+Sustainability assessment; retrospective studies; diversified farms; Valle de Guadalupe; Mexico
+Conservation; Tarentola (boettgeri) bischoffi; Gekkonidae; Selvagens archipelago; Macaronesia; Seasonality; Protected area
+ICT4D; Mobile payment; emerging markets; Rwanda; Kenya; M-Pesa; technological; organizational and environmental (TOE) framework
+Stress Conditions; Hedging; Credit Risk; Derivatives; Credit Default Swaps (CDS); Financial Engineering; Banks in Syria
+Destination choice; Social media; Sharing economy; Information sources; Tourist behaviour
+Newborn Screening; Hearing loss, congenital; Risk Factors; Evaluation of Health Programs and Projects
+AutoRecSys; AutoML; algorithm selection; hyperparameter optimization
+Recommendation system; context - aware; personality; demographic; location; review sentiment; purchase reason
+Web recommendation; E-commerce; Filtering techniques; Machine learning
+Argumentation; Mathematics Teaching; Brazil-Canada; Textbook
+Location-based Search; Local Recommendation; Near Me; Meritocratic Fairness; Popularity Bias; Position Bias
+Big data; Tourism; Demand forecasting; Recommendation system; Network analysis; Bibliometric analysis
+Machine Learning; Supervised Learning; Classifier; Information Retrieval; Content Based Filtering; Recommender System
+Natural language processing; Text mining; Reputation generation; E-commerce; Decision making; Sentiment analysis
+Libraries; reading; gender; Enlightenment; civility-politeness
+Curcuma caesia; biological activity; ethnobotany; Indian traditional medicine; phytochemistry
+
+T.S. Eliot; education; class; elite; social mobility; (anti-)egalitarianism
+assessment; open access; scientometric database; pedagogical research; research product
+Recommender system; Machine learning algorithms; Big data system; Data scientist; Popularity model; Information filtering; Collaborative filtering
+Artificial intelligence; big data; document analysis; android; digital reader
+Recommender Systems; Heterogeneous Propagation; Knowledge Graph
+Children; Education; Stick; Proverb (saying); Proverbs (Book of)
+Walking meetings; Physical activity; Sedentary behavior; Office workers; Field study; Design research
+Analytical Hierarchy Process (AHP); scientometric analysis; multi-criteria decision-making analysis
+nlp; classification; deep learning; recommendation
+Automotive SPICE 3.1; VDA; Automotive SPICE Guidelines; Distributed and online assessment
+price to book ratio; regulatory requirements; credit risk portfolio; dynamic panel models; European banking sector
+graph mining; information retrieval; social book search; recommendation system
+Ultrasound; Anthropometrics; Older adult; Skeletal muscle
+diabetes mellitus; tuberculosis; pre-diabetes mellitus
+Task analysis; Electronic publishing; Libraries; Computer architecture; Bit error rate; Training; Testing; Artificial Intelligence; natural language processing; classification algorithms; self-organizing maps; unsupervised learning; deep neural networks; digital libraries; book classification; ToC vectorization
+Uplift Modeling; Machine Learning; Causal Inference; Benefits Recommendation; Implicit Feedback
+recommender system; self-attention; feature embedding; deep learning
+Consistency-aware Recommendation; User-Generated Item Lists; Automatic Lists Continuation; Attention Mechanism
+Computing methodologies; Computer graphics; Graphics systems and interfaces; Mixed / augmented reality; Computer systems organization; Architectures; Distributed architectures; Client-server architectures
+Data mining; academic libraries; big data; machine learning; predictive analysis
+
+Price multiples; South East Asia; ridge regression; lasso; shrinkage method
+Tweet; Retweet; Mention; Follower; Followee; Content based recommendation; Collaborative filtering
+recommender systems; user control; related item recommendations; information exploration tool; interactive recommendation; user interfaces; conversational recommender systems; critiquing recommender systems
+Social Book Search; Book recommendation; Language modeling; Vector Space model; Boolean Retrieval model; Information Retrieval
+education; liberal arts education; innovation; traditions; university; school; education reforms; the Bologna recommendations
+
+
+Chinese ancient medicine; Hair loss; Inner Canon of the Yellow Emperor; Kidneys' qi; Su Wen
+click-through rate; recommender system; knowledge graph; explicit rating; attention mechanism
+Recommender system; Heterogeneous network; Deep learning
+Cross Domain Recommendation; Deep Learning; Transfer Learning; Dual Learning; Autoencoder
+Recommendation; Quaternion Embedding; Knowledge Graph
+
+cross-domain recommendation; matrix factorization; feature transfer; attention mechanism
+E-book; Personalized recommendation; Intelligent detection
+risk assessment; police accountability; overbooking; fairness
+Boswellia serrata; memory; nisyan; boswellic acids; traditional medicine; trial studies
+Data Mining; Business Intelligence; Booking System; Mobile Technology; Augmented Reality; API; Flutter; Cloud Computing
+children; preferences; books; recommender systems; metadata
+Programming profession; Tools; Education; Games; Computational modeling; Programming; computational thinking; learning paths; data-driven; Scratch
+Anaerobiosis; Oxygen consumption; Water quality; Phosphorus; Ammonia
+Arabic natural language processing; genetic algorithms; hadith; isnad; tagging
+conversational recommendation; conversational search; probing
+Chatbots; Model-driven engineering; DSLs; Migration
+Sentiment Analysis; Recommendation System; collaborative filtering; rating prediction
+library studies; textbook; the Great Patriotic War; Alexander M. Mazuritsky
+
+Recommender systems; Book recommendation; Collaborative filtering; Implicit feedback; Explicit ratings
+Evolution; Paleolithic models; Skin; Skin cancer; Solar radiation; Sun; Sunlight; Sun protection; Ultraviolet radiation; Vitamin D; Vitamin D receptor
+Arthropods; attraction; bait; fermenting beer; insects; insect collection method
+
+horses; DNA markers; microsatellites; polymorphism; allele pool; gene pool; population genetics
+Digital library; edge computing; assisted reading; text image features; RBF neural network
+Design watershed yield; Ungauged design watershed; Rainfall runoff models; Irrigation guidelines
+Anemia, Sickle Cell [*blood] [*complications]; Cholecalciferol [*administration & dosage]; Pain [drug therapy]; Quality of Life; Randomized Controlled Trials as Topic; Time Factors; Vitamin D [*administration & dosage] [*analogs & derivatives] [blood]; Vitamin D Deficiency [therapy]; Humans
+Big data technology; intelligent library; interest reading recommendation; data mining
+value relevance; accounting measures; share price model; IFRS
+Recommender systems; Cross-domain; Big data; e-commerce; Amazon; CRISP-DM
+Recommendation; Graph Neural Network; Higher-order Connectivity; Embedding Propagation; Knowledge Graph
+Lycopodiella inundata; North-East of the European part of Russia; the Komi Republic; flora; rare protected species
+dyslexia; phonics; reading comprehension; teachers; English
+Recommender systems; Neural networks; Deep learning; Quality of service; Computational modeling; Computer architecture; Deep learning; services; deep neural collaborative filtering; educational; services recommendation
+
+
+A/B testing; counterfactual; ranking evaluation; marketplace; design of experiments
+
+Top-N Recommendation; Knowledge Graph; A/B Testing
+Campus book recommendation; Collaborative filtering; Multiple student and book interaction graphs; Graph convolution
+Cold-Start Recommender Systems; Aspect-based Recommendation; Deep Learning
+Book recommendation; hierarchical tree coding; serialized chapters; local fine-grained partition; semantic features; partial reconstruction
+colour; colour difference; uniform colour system; colorimetric system; filters; quality control; estimation; computer vision
+History of education; Education of women; Female identity; Croatia; XIXth Century
+
+Pregnancy in diabetics; hypertension; preeclampsia; risk factors; weight gain; blood pressure; pregnancy outcome
+Ethical leadership; Public sector; Structured literature research
+drug administration routes; enteral nutrition; gastrointestinal intubation; immunosuppressive agents
+Perceived value; Interaction; Gender difference; Perceived behavioural control; Convenience store; Innovative library services; Perceived convenience
+co-creation; interdisciplinary; transdisciplinary; real-world laboratory; participation; sustainable transport; future mobility concepts; mobility-on-demand-systems; ride pooling
+Similarity; personal record; multidimensional data visualization; temporal visualization; decision making; visual analytics
+National political transformation; World-historical methodology
+
+Hotel recommendation system; User reviews; Poisson factorization; Topic models; Multi-aspect ratings
+Children; Alternative sample; Review; Stool test
+Vegetable intake; Healthy eating intervention; Health promotion; Nutrition education; Sensory learning
+return on assets; return on equity; banking; insurance; GLM; Vietnam
+Medical rehabilitation; inflammatory rheumatic diseases; findings reports; assessment; patient's view
+political economy; crony capitalism; economic reform; oligarchs; corruption; post-communist; Putin
+
+Tristimulus values; bandpass error; intervals error; color difference; weighting table; Munsell Color Book
+Generalized linear mixed model; hierarchical model; method of moments; recommender system
+Comparative analysis; Sentiment analysis; User-generated content; Social media analytics; Topic modeling; Spatial analysis; Text analytics
+personalized health management; domain ontology; cardiovascular disease; recommendation algorithm
+GIS; police; security; spatiotemporal crime analysis
+Neuroimaging; Neuropsychiatric testing; Cerebrospinal fluid examination; Health services research; Health claims data
+Ayurveda; Ghrita; Clarified butter; Ghee; Cardiovascular diseases; Diabetes
+
+Fixed oils; Essential oils; Aromatherapy; Skin; Healing; Infection
+woody plants; Botanical garden; ecosystems; green technologies; genetic fund; Northern Kazakhstan; floristic area; introduction; introductions; woody plants
+surgery; medical school; NBME; study strategy
+Clustering algorithms; Biological system modeling; Atmospheric modeling; Adaptation models; Prediction algorithms; Data models; Computational modeling; Semi-supervised learning; discrete choice models; travel demand forecasting
+breastfeeding and weaning; burial practice; Edo period; perception toward subadults; stable isotope analysis
+Livres scolaires; petites ?coles; Fr?res des ?coles chr?tiennes
+Recommender system; Principle component analysis; Hierarchical agglomerative clustering; K-means; Trust ranking; Multi-cloud environment
+Online customer reviews; review comments; features; customer ratings; hotel performance; online room sales; online information; log-log regression
+Ontology; recommender systems; social recommendation; user modelling
+expert finding systems; expertise retrieval; expertise seeking
+firefighting water standard and guideline
+Prostate cancer; classification; grading; staging; clinically significant PCa
+Tourism; Mobile apps; Loyalty; UTAUT2; Tourist behaviour
+E-textbooks; Students; Academic achievement; Higher education
+endemic species; vascular plants; ecological and geographical analysis; chorological group; floristic complex; Red Book; Siberia
+international hotel; customers; online hotel bookings; UTAUT2
+healthcare; Q&A forums; digital platforms; user-generated content
+Information cascades; Word of mouth; Recommendation systems; Interaction effect; Online reading
+patient safety; risk management; medical error; primary health care
+Life cycle assessment; Buildings; Sustainability
+Flexible work arrangements; Ecological model; Supervisor support; Employer of choice; Flexible workplace; Gender equality in the workplace; Work/life balance
+cognitive-behavior therapy; Pavillon Albert-Prevost; Michel Dugas; Pascale Brillon; Pierre Fortier; Jacques Monday; Louis Chaloult
+UTAUT; E-service quality; Integration; Mediation; Structural equation modelling (SEM); E-commerce; Electronic commerce; Information technology
+Child health; education; handwashing; India; infection control; low and middle income countries
+anal incontinence; core outcome set; ICIQ-UI SF; patient-reported outcome measures; validation study; psychometric analysis
+Candida vaginal colonisation; pathogenesis of Candida vaginitis; predisposing factors; treatment; vaginal yeast colonisation
+Collaborative filtering; K-d trees; quadtrees; recommendation algorithm; spatial autocorrelation; scalability
+
+sustainability; expectations; experiences; intention to return; intention to recommendation
+Capability Development; Nursing Education; Nursing Workforce; Professionalism; Singapore
+education; school choice; public policy; politics; teacher union
+Claudius Ptolemy; Ptolemy's Geography; Cosmography; Tetrabiblos; astrology; astrological geography; zodiac signs; regional arrangement; early printed atlases; Taddeo Crivelli; Domenico de Lapis; Girolamo Manfredi; Pietrobono Avogaro; Galeotto Marzio da Narni; Bologna; Ferrara
+Age; Big Five; Collaborative Filtering; Content-Based Filtering; Gender; Location; Personality; Recommendation System
+Algorithms; recalibration; normativity; accounting; algorithmic output; quantified self
+Recommender systems; Diversity; Intent-aware diversification; Subprofiles
+best available technologies; power industry; pollutants; reduction of emissions; technological indicators; BAT information and technical reference book; cost estimation when switching to BAT
+Recommender system; Collaborative Filtering; Side information; Restricted Boltzmann Machine; Preference relation
+Recommender system; Kullback-Leibler divergence; Fuzzy C-means clustering; Improved sqrt-cosine similarity
+Adherence; focused antenatal care; determinants; timing
+Internet Gaming Disorder; Immigrant Koreans; Physical Activity; Reading Books
+Social network; Edge prediction methods; Complexity; Accuracy; Computational overhead and cost; Scalability; Generalization
+Enabling use; Survey and interview data; Transfer pricing system integration; Transfer pricing system success
+Rheumatological care; Treat to target; Specialist-oriented care; Early outpatient consultation; Quality indicators
+modeling and simulation; neonates; pharmacokinetics; vancomycin
+Pile design; Pile analysis; Pile load test; Finite element analysis
+
+juridical linguistics; linguistic examination; methodological publications; practice; dictionary; source; database
+Query expansion; Social re-ranking; Users' profile; Pseudo Relevance Feedback; Social information; SBS
+digital content; software as a service; free sample; freemium; field experiment
+Arthritis; Behcet's disease; Byzantine; Galen; Gout; Hippocrates; Hellenistic; Mediterranean
+Comparative study; emergency and disaster; medical response teams; structural factors
+collaborative filtering; cosine similarity; demographics; typicality
+augmented reality; virtual reality; mixed reality; learning outcomes; spatial ability
+Religious Education; Halim Sabit; 'Ameli Ilmihal; Primary School; Children
+
+recommender system; context-aware computing; digital storytelling; e-tourism
+Lviv; Soviets; food; food cards; canteen; restaurant; bread; population
+
+
+O2O take-away restaurant recommendation system; RC/AHP; Dynamic; Ele.me APP
+Health state utility value; quality-adjusted life year; health economic evaluation; health utility registry; quality assessment; applicability
+Personalized content recommendation; Hybrid methods; Recommendation systems; Cold Starts
+Teachers
+E-learning; Personalised learning; Learning style; Dyslexia; Adaptive e-learning; Recommendation algorithm
+Evidence-based medicine; geriatric trauma; palliative care; practice management guideline; trauma systems
+
+RFID; activity recognition; smart library; wireless sensing; internet of things
+Cross-domain recommender systems; User cold start; Item metadata; Linked data
+Ziziphus jujuba Mill.; Jujube; Traditional Persian medicine; Onnab
+
+
+Mass media; utilization; poultry farmers
+O2O service; User activity; Collaborative filtering; Rating-based recommendation
+Religion; Spirituality; Secular medicine; Hostility to hospitality; Chaplain; Spiritual care
+Code Metrics; Lines of Code Agent; Availability; Cloud Computing; Maintainability; Reliability; RMA. T/DaaS; Open Source Software; Maintenance; code lines; Halstead-Volume; Cyclomaticintricacy; Maintainability Index
+
+
+Mild cognitive impairment; Lifestyle; Activities; Risk; Dementia
+Block pavement; Post-modern pavement; Sustainability
+Practices; Policies; Boundaries; Los Angeles; Guidebooks
+
+User modelling; Tourism recommender systems; Tourism destinations; Statistical analysis; Cluster analysis; Seven-Factor Model
+
+Location privacy; Point-of-interest; Recommendation
+Autism spectrum disorder (ASD); robot; picture book recommendation; human-robot interaction; near-duplicated keyframe (NDK); multiple correspondence analysis (MCA); integration; multi-modality
+Link streams; Recommender systems; Interpretability; Temporal networks; Graphs
+Survey of Surveys; text visualization; information visualization
+Bangladesh; RFID technology; Collection management; University libraries; RFID solutions; Theft detection
+
+
+chronic pain; dysmenorrhoea; endometriosis; laparoscopy; pelvic pain
+Exclusive breastfeeding; Infant feeding practice; infant formula feeding; HIV-infected peripartum women; South Africa; WHO guideline
+Quality of care; Developmental delay; Children; China; Ages and stages questionnaires
+Gondar; Ethiopia; Low birth weight; Newborns
+Adherence; Treatment; HIV; AIDS; Antiretroviral Therapy
+Recommender Systems; Book Recommendations; Stylometry features
+Recommender systems; Collaborative filtering; Alternating Least Squares; Apache Spark; Big data; MovieLens dataset
+red meat; livestock projects; internal rate of return; eastern region; sensitivity analysis
+Collaborative filtering; Recommendation system; Methodologies; Applications
+Open book management; lack of transparency; information sharing; distrust
+WOM; Restaurant industry; Review sites; Intention to visit; Website trust
+style estimation; neural networks; recommendation
+Recommender systems; collaborative filtering; scientific literature; dataset; astronomy; chemical compounds
+
+cross-cultural training of foreign language teachers and professors; foreign language coursebook website; analysis of website content and structure; coursebook website functions; peculiarities and requirements for website building and development
+Chatbots; Chatbot usability; Mental healthcare; User experience; Human Computer Interaction; Microsoft Bot Framework; System Usability Scale
+Python; Pearson Correlation; Recommendation System; Content-based; Correlation-based
+e-Tourism; Rating summaries; Conjoint analysis; Explanations; Recommender systems
+ACM RecSys Challenge 2019; Recommender Systems; Feature Engineering; Stacking Ensemble; Learning To Rank
+Empowerment; Physically-handicapped people; Social trust; Social participation; Sports activities; Sympathy behaviors
+Uterine cervical cancer; Clinical practice guidelines; Surgery; Chemotherapy; Irradiation; Recurrence
+Recommender Systems; Collaborative Filtering; Matrix Factorization; Influential Users
+Mobile Cloud Computing; Golang; Redis; POI recommendation
+Regional accessibility; Accessibility models; Routes-of-travel; Multiple online data
+Optimum nutrition; Energy requirement; Energy intake; Dietary habit recommendation; Binary Particle Swarm Optimization
+
+Collaborative Filtering; Mahout; Pearson Similarity; Recommendation System; Similarity Measures
+Recommendation system; mixed-effect model; group recommendation; movie recommendation
+
+Adolescence; Decision making; Personal autonomy; Bioethics
+recommender system; svd; matrix factorization; machine learning; predictive analytics
+Flight ticket recommendation; cold-start problem; latent factor
+Smart tourism; Sharing economy; Airbnb; Aristotle's appeals; Peer-to-peer accommodation
+Recommender System; User-Generated Item Lists; Self-Attention
+
+Future; foresight; work; vision; skills; jobs; post-work; capitalism; automation; planning
+Theory; Theory Fixation; Feyerabend; IS Discipline
+Recommender Systems; Collaborative Filtering; Deep Learning
+Secondary education; Textbooks; Nature of science; Pseudoscience; Scientific methodology
+Collaborative filtering; Library book recommendation; Probabilistic-keyword model
+Sightseeing guidebook; Sightseeing information; Tourist attribute; Local information
+RecSys Challenge; Boosting; Feature Engineering; Mean Reciprocal Rank
+Recommender Systems; Event-based Social Networks; Contextual Recommendation
+Recommender systems; Tweets; Social networking; Sentiment analysis; Opinion mining
+Book Recommendation; Co-clustering; Embedded Layers; Collaborative Filtering; Deep Learning
+
+
+accounting; CIPP Model; outcome-based education and training; West Oromia; Ethiopia
+
+Journal recommendation system; Conference recommendation system; Content-based methods; Collaborative filtering
+Data mining; Service recommendation; Genetic algorithm; Searching; Datasets
+
+
+Automotive SPICE; Functional safety; Cybersecurity; Highly autonomous vehicles
+Recommendation Systems; TF-IDF; Sentiment Analysis
+coeliac disease; invitation letter; vaccinations
+Clustering; Collaborative filtering; Data mining; Recommender systems; Research
+Recommender Systems; Explanation; Natural Language Processing; Opinion Mining; Sentiment Analysis; User Study
+Linked open data; Explanation; Recommender systems; User interface; User study
+Feature selection; Filter method; Selective feature selection
+Recommender systems; Kernel mapping; hybrid recommender system
+N. Rubakin; Lithuanian students in the University of Fribourg; S. Salkauskis; A. Viskontas; Olga Juodakene; Albinas Rimka; Vincas Cepinskis; the influence Lithuanian Catholic Church on the educational process in Lithuania in 1920s; publication of N. Rubakin's books in Lithuania; self-education in Lithuania in 1920s
+Book recommendation; Deep learning; Metadata
+IoT; Recommender systems; Collaborative-filtering; Book recommendation
+
+Booking Appointment; Central Data Base; Expert System; Healthcare Mobile Application
+Adaptive E-learning; User profiling; Social profiling; Egocentric network
+Recommender systems; Books; Knowledge graphs; DBpedia; Embeddings
+Opinion leader; Book recommendation; Social network; Recommendation filtering techniques
+Celiac disease; Wheat allergy; Nonceliac gluten sensitivity; Nutritional deficiencies; Gastrointestinal symptoms
+Childrens Mobile Applications; Childrens Apps; Digital Contents; Digital Media; Mobile Technology; Evaluation Criteria
+Transport policy; strategies and programs; sustainable development
+Ontology; Mashup; Natural language processing; Content-based filtering; Unsupervised clustering
+Personalized recommendation; Rating system; E-tourism; Hybrid recommendation; Collaborative filtering; Knowledge-based recommendation
+Question & answering (Q&A); Scholars; Reputation model Expertise; Willingness
+Biographical Analysis; Language Models; Paragraph Annotation; Supervised Machine Learning Classification
+3D; virtual learning environment; educational game; online training
+
+Recommender systems; cultural heritage; social networks; linked open data
+Airlines flight passes; random forest regression; revenue management; Monte-Carlo simulation
+curriculum development; outpatient clinics; ambulatory medicine; competency-based education; interest-based learning
+Recommender Systems; Online News; Text Mining; Topic Modelling; Co-occurence Networks
+illustration; e-book text analysis; reader; recommendation
+dynamic pricing; airline ancillaries; contextual pricing; deep neural networks; classification
+community health care; health and social care; homelessness; young people
+Alexander II; Great reforms; abolition of serfdom; school; school text-books; history of Russia
+Recommender Systems (RSs); Matrix Factorization; Active Learning (AL); Propensity
+Active learning; Active textbook system; iOS; Android; Unity
+Chatbot; Conversational recommender; Model-based reasoning
+social network; sentiment analysis; lexicon based; machine learning; natural language processing
+Book recommender systems; classification algorithms; Naive Bayes; decision trees; Word2Vec
+Collaborative Filtering; Content-based Recommendation; Cluster; Spark
+Choice Based Conjoint Analysis; Flexible Transport Services (FTS); Demand responsive transport; Rural area; Mountainous area; Zagori
+Reading speed; Text difficulty; Reading behavior; User modeling
+e-book usage; gratification; African universities; Extended Technological Acceptance Model; e-learning evaluation
+Trust; reputation; social networks; influence; group decision making; e-word of mouth
+Quality of childbirth care; Patient safety
+commercial content; personalization; Web mining; Machine Learning; SEO technology; metrics search; e-commerce; NLP; content monitoring; content analysis; statistical linguistic analysis; quantitative linguistics
+Recommender systems; Knowledge graph; Multi-task learning
+Recommender systems; Knowledge graph; Graph convolutional networks
+
+air leakage; air infiltration; historic; modernism
+
+Weibo sentiment analysis; convolution neural network; extended vocabulary; word2vec
+implicit recommendation system; multiple implicit behaviors; co-occurrence; pairwise ranking
+recommender system; utility; stakeholder; personalized learning
+
+Qualitative research; Clinical practice guidelines; Implementation; Primary care; Focus groups; Theoretical domains framework; Behaviour change; Quality improvement
+
+Recommender systems; Hotel recommendation; Tourism planning; Context-awareness; Event tourism
+diabetes; gestational; glycated hemoglobin A; point-of-care systems
+electronic waste; environmental exposure; environmental pollution; human exposure; legislation; public health
+abduction; agent-based reasoning; creativity; eco-cognitive model; eco-cognitive openness; fallacies; errors of reasoning; third-way reasoning; naturalization of logic
+Animal welfare; Study plans; Study programs; Teaching; Veterinary medicine
+
+Opinion mining; Feature extraction; OWA; Book recommendation; Performance evaluation
+Embryo and endosperm formation; Micro and macrosporogenesis; Population observation
+Cross-domain recommender; Social big data; Collaborative filtering; Association rule
+
+Atractylodes macrocephala Koidz.; Traditional uses; Phytochemistry; Pharmacology
+Virtual reality; Information technology; And education
+
+
+healthcare; justice; solidarity
+cosmetic; dentistry; ethics; professionalism; sociology
+procurement system; large-scale construction projects; expert system; client
+budget impact; next-generation sequencing; NSCLC; single-gene testing
+Author recommendations; image retrieval; locality reconstruction; tree structure; vectorial representation
+Reading/literacy; Family dynamics/processes; Mother-child relations; Dialogic reading; Shared reading; Home literacy environment; Measure development; Assessment/testing
+
+Author Recommendation; Discoverability; Publishing Recommendation; Reading and Technology; Reading and Visibility; Reading Recommendation Systems; Title Recommendation
+Social big data; social recommendation; deep learning; graph partitioning; social trust
+wearables; physical activity; measurement; youth; sedentary behavior; cut-points
+Recommender systems; Conformal prediction; Matrix factorization; Confidence; Nonconformity measure
+Collaborative Filtering; Context Based Approach; Content Based Method; Hybrid Approach; Recommender System
+Collaborative filtering; Association rules; Data mining
+
+Recommender systems; Explicitation system; Implicit feedback; Classification algorithms
+Biodiversity conservation; Red lists; RIU model; Science-policy interface; Science-based policy advice; Vietnamese Red Data Book
+Elderly; eBook; Multiple criteria decision-making (MCDM) method; User interface
+Tree structure; vectorial representation; locality reconstruction; content-based recommendation; book recommendation
+24-h recall; nutrition assessment; technology assisted dietary assessment; gestational diabetes
+
+cancer; communication intervention; consultation audio-recordings; culturally and linguistically diverse; health literacy; health services; migrants; models of care; oncology; question prompt list
+Web personalization; Retail strategy; Cash flow volatility; Price premium; Market-to-book ratio; Marketing-finance interface
+art therapy; emotional distress; existentialism; female cancer; oncology; psychological well-being; spirituality
+
+Maternal; Alcohol consumption; Pregnancy; Antenatal care; Implementation; Clinical practice change; Stepped-wedge trial; Protocol
+Recommender systems; Personalization; Book recommendations
+
+Microsoft Word; text editor; obsolete vocabulary; archaisms; spelling mistakes; normative spelling; old spelling; poetic texts
+Management of change; Organizational changes; Organizational readiness; Process safety; Benchmarking
+HIV disclosure; Children; Perceptions; experiences; working together
+
+pelvic anatomy; pelvic surgery; terminology
+book-borrowing record; educational data mining; matrix factorization; multi-task learning; student performance prediction; transfer learning
+
+Social influence regularization; Influence maximization; Dual influence; Social recommendation
+neonate; vancomycin; population pharmacokinetic; Monte Carlo simulation; individualized therapy
+Smart parking system; Parking facility; Cloud computing; Traffic congestion; VANET
+recommender system; collaborative filtering; matrix factorization; social tag
+Dog; Intervertebral herniated disk disease; Prognostic value
+Injury prevention; all-terrain vehicle; brain injury; guideline; evidence-based medicine
+Course books; Mathematical modeling; Model-eliciting activities; Modeling principles
+facility selection; facility siting; facility layout; equipment layout; spacing; distance
+Traditional chinese medicine; prescriptions; topic model; domain knowledge
+Step counts; Organized leisure time physical activity; Preschool and school-aged children; Overweight and obesity
+Claims data; Psychiatric health care; Effectiveness and cost effectiveness; Routine data; Statutory health insurance; Inpatient arid outpatient treatment; Setting approach; Health care system; Health services research
+Electronic word-of-mouth; online reviews; tourists' opinion
+
+Goods Service Tax; Tax; Economy
+Capacity Building; Communication; Implementation Science; Interdisciplinary Studies; Primary Health Care; Problem Solving
+mental health; community-based participatory research; eHealth
+
+online novel recommendation; tag-driven; latent preference; rating prediction; item-based collaborative filtering
+
+novice teacher; program evaluation; teacher education
+Monographs; collaborative management; academic libraries; UKRR; monograph storage
+Salvadora persica; Miswak; Chewing sticks; Traditional uses; Phytochemicals; Bioapplication; Pharmacology; Toxicity
+Amygdalus cornmunis L.; Alzheimer's disease; Corylus avellana L Juglans regia L; Neurogenesis; Persian medicine; Prunus dulcis (Mill.) DAWebb
+Information services; public library; youth empowerment; youth information needs
+Liver; Food; Amino acids; Iranian Traditional Medicine; cirrhosis
+adherence; Cyp P450 enzymes; pharmacodynamics; pharmacokinetics; pregnancy
+Public libraries; Information services; Distance learning; Distance learners; Higher education
+Arachnoid matter; Liliequist membrane; Microsurgical procedures; Subarachnoid trabeculae; Subarachnoid trabecular membrane; Trabecular cisterns
+Long tail; sales concentration; book industry; online product Information; recommender systems
+Educational publishing; Tanzania; Textbook evaluation; Textbook vetting; Textbooks
+Robotic surgery; Bowel injury; Trocar insertion; Gastrointestinal complications
+Bayesian statistics; Hypothesis testing
+Content-Based Recommender System; Difficulty Level; Video Sequencing; Table of Content; Victor Space Mod
+Die casting; Dysprosium; Electric; Electrical; Electrical steel; Inventory; Life cycle assessment; Machine; Magnet; Manufacturing; Model; Motor; NdFeB; Neodymium; Permanent; Production; Scalable; Silicon steel
+Modeling quitting; Censored geometric distribution; Search termination; Hierarchical models; Latent-mixture models; Bayesian methods
+app; clinical protocols; disease prevention; mobile application; nursing intervention; pressure injury; pressure injury staging
+
+Collaborative filtering; Cross domain recommendation systems; Tensor factorization; Clustering; Cross-domain multi-dimension tensor factorization
+Privacy protection; Personalized recommendation services; Targeted delivery; Collaborative filtering; Machine learning
+Collaborative filtering (CF); hidden semi-Markov model (HSMM); recommender system; time-dependent recommendation
+
+Recommendation system; Collaborative filtering; Alternating least squares; Apache Spark
+Deep learning; Recommender system; Collaborative Filtering; Neural Network
+book reviews; aspect extraction; category detection; recommender systems; digital humanities; sentiment analysis
+multi-agent system; recommender system; e-tourism; trust; reputation
+constitution; amending the constitution; constitutional reform; constitutional drafts
+Gluten; Gluten-free diet; Psychosis; Schizophrenia; Bipolar disorder; Mood disorders
+Recommender Systems; Privacy; User Perceptions; Trust; Acceptance
+Flight Recommendation; Cross-Domain; Triadic Factorization; Tensor
+Book recommender system; Keyword extraction; Supplementary books; Course description
+Cross-modal; hypergraph learning; topic model; sentiment classification; product reviews
+
+Carpooling; Transport system; Economy; Safety; Road passenger transport
+Co-Training; Recommender Systems; Semi-supervised Learning
+Book Recommendation; Hybrid Model; Content based; Collaborative filtering; Demographic filtering
+Food Guides; Food processing; Public policies; Brazil
+Cystic Fibrosis [complications]; Vitamin A [administration & dosage; adverse effects]; Vitamin A Deficiency [prevention & control]; Vitamins [administration & dosage; adverse effects]; Humans
+
+social mining; recommender systems; Twitter; users' interest dataset
+Semantic recommenders; Twitter; Wikipedia; Users' interest
+collaborative filtering; user impact; bias; discrimination
+
+Cross-cultural study; Quasi-experiment; Online recommendation; Other customers; Source-credibility model
+Recommendation Systems; Collaborative Filtering; Matrix Factorization; Regularization
+Bile; drug bile concentration; drug blood concentration; ethanol; opioids; post-mortem toxicology
+Recommendation system collaborative filtering; association rule mining; big data
+
+Recommendation system; Content-based; Collaborative filtering; Hybrid filtering
+Online Security Repositories; Security patterns; Security requirements; Semantic representation; Ontologies
+Daily itineraries; Evaluation; Improvements; Tag similarity; X-Means clustering algorithm
+recommender systems; collaborative filtering; active learning; crossdomain; multi-domain
+Ubiquitous computing; enterprise architecture frameworks; inventory control; book spine recognition; location management; misplacement detection; robotics
+LIFE; Geographic Information System; climate change; Best Management Practices; indicators
+
+Shortcut; Subitizing
+grammar; lexicography; onomastics; toponomastics; settlement name; katoikonym; appellatives
+collaborative filtering algorithm; cold start; book recommendation
+Rating Prediction; Trust Network; Network Embedding
+Recommendation System; data mining; association rule; user profile
+floor plan; machine learning; prediction; preference; real estate; recommendation
+maize; sprinkler irrigation; MOPECO model; gross margin
+big data; namespace; rating; relevant item; RDF vocabulary; sparsity; user's relationship
+History of education; Primers; Intergenerational cultural transmission; Latvia; Poland; XXth Century
+
+query relaxation; query correction; query ranking; query suggestion; query recommendation
+Recommendation system; Collaborative Filtering; Data mining; Text analysis; Artificial intelligence
+Tourism; Crowdsourcing; Topic Modelling; Profiling; Recommendation
+feature extraction; review highlight; customer reviews; recommendation; distributed system; Hadoop YARN
+DRM; Android; EPUB; e-book; reverse engineering
+PD control; optimization; lead lag design; H-infinity control; performance; robustness; education
+
+Content-based recommendation; course recommendation; LinkedIn
+
+Recommended system; similarity calculation; co-similarity calculation; F1 indicator
+books recommendation system; data mining; personalized service
+Intellectual property law; intellectual property enforcement; piracy counterfeiting; Chinese law
+
+Library Recommendation; Bibliographic Information; Information Retrieval
+urban grasslands; sustainable gardening; optical sensors; histogram; Arduino
+
+Recommender System; smart LMS; distance learning; online learning; machine learning
+Recommender Systems; Machine Learning; Linked Open Data
+Recommender Systems; Linked Open Data; Deep Learning; Recurrent Neural Networks
+Cryptography; Block cipher; Advance Encryption Standard; Modes of operation; Encryption algorithms
+recommender system; e-book; computer supported learning
+Limit order book; Liquidity; Resilience; GLM; GAMLSS
+Digital libraries; Dissemination of information; Recommender systems; Fuzzy linguistic modelling
+shared account; top-N recommendation; book; synthetic dataset; identifiability; fraction at zero recall
+Bayesian; psychometrics
+Animal production; thermal comfort; litter quality; poultry farming; waste management
+Sentiment analysis; social media; Twitter; K-12 program; educational post
+Recommender systems; Text mining; Document embedding
+Recommender system; Emotions; Reviews; Linguistic variable; Movies; Fuzzy rule based system
+Natural Language Processing; Recommendation systems; Named entity extraction; Similarity metrics; Text mining
+recommendation system; content based recommendation system; naive recommendation system; collaborative filtering engine
+Video learning; collaborative learning; internal control
+
+MongoDB; NoSQL; K-means; Sharding; Distributed Database
+recommender system; collaborative filtering; matrix factorization; educational data mining
+Administration; Inhalation; Administration; Intranasal; Aerosols; Anti-Bacterial Agents [*administration & dosage]; Cystic Fibrosis [*complications]; Nebulizers and Vaporizers; Pseudomonas Infections [etiology; *prevention & control] Pseudomonas aeruginosa; Randomized Controlled Trials as Topic; Respiratory Tract Infections [microbiology; *prevention & control]; Humans
+DMC; juvenile justice; literature review
+Topics of publication; fine-grained affective analysis; conditional random field model; affective weighting calculation; evaluation object attribute; affective recommendation index
+Recommendation System; Deep learning; Dimension Reduction; Restricted Boltzmann Machine; Coverage; Prediction accuracy
+lean manufacturing; Toyota production system; organizational culture; national culture; lean implementation
+Syrian students; educational challenges; immigrants' right to education
+Recommender systems; Ontology; User interface; Scholarly ontology; Scholarly data
+Recommender Systems; Explicit Data; Implicit Data; Ensemble Similarity; Collaborative Filtering
+
+political repressions; rehabilitation; Memorial books
+Controlled environment; poultry; animal welfare; air temperature
+
+Recommender systems; knowledge graph; preference propagation
+Hotel recommendation; online reviews; interval neutrosophic linguistic numbers; TripAdvisor.com
+Digital archive; Recommender system; Japanese cultural heritage; Neural network; Restricted Boltzmann machine
+Japanese culture heritage; Neural network; Restricted Boltzmann machine; Recommender system
+Recommender System; Application; Development
+Fiction classification; affective dimension searching; connotative book indexes; book recommendation systems; shelf classification; indexing objectivity; aboutness
+Healthy foods; health promotion; healthcare system; public-private partnership; social determinant of health
+Collaborative filtering; recommender system; mahout; user-based recommender; item-based recommender
+Online booking; Fluctuate data; Variables; Linear regression model
+Barcode; hand-held inventory device; inventory; integrated library system; inventory exception; shelf-reading
+Extended release; colonic absorption; regional absorption; formulation; prodrug; product development
+education; teacher; cognitive; reading; culture; books; university; professional; personality
+Library management; Library users; Association rule; Data mining; Personalized recommendation; Artificial bee colony
+Convolutional neural networks; recurrent neural networks; deep learning; session-based recommendation
+Recommender systems; Cross-domain recommender systems; Knowledge transfer; Collaborative filtering
+KANO model; Reading APPs; Functional Requirements; User Satisfaction
+Information Fusion; User Modeling; Multi-dimensional
+Recommendation system; Interactive recommendation; Tag association analysis; Cold start
+
+
+Recommender system; Cross domain; Emotion; Lexicons; Online content; Collaborative filtering
+
+Intermodal coordination; Truck appointment system; Simulation analysis; Ports optimization; Port terminal congestion
+
+
+
+Valuation; Cultural Markets; Organizations; Popular Music; Computational Social Science
+IOBPCS; APIOBPCS; Production control; Planning control; Supply chain; Bullwhip effect
+attitude; behavior; caregiver; children with disability; knowledge; oral health
+
+pain; child health; parents; art
+Big data; Context Awareness; Smartphones; Sensors; Internet of Things; Wireless Sensor Networks
+Recommender systems; cold start; positive-only feedback; semantic-based recommendations; matrix factorization; graph-based algorithms
+Recommender systems; Cross-domain recommender system; Knowledge transfer; Collaborative filtering
+Building surfaces; Ecological engineering; Green facade; Green wall; Vertical greening system
+Recommender Systems; Linked Open Data; Semantics; Machine learning; Classifiers
+al-Tabari; Firdaws al-Hikma; head wounds; history of medicine; Paradise of Wisdom
+Prenatal nutrition; Health education; Midwifery; Public health; Video analyses
+Family care behaviors; Early childhood development; Nutrition; Developing countries; Literacy-numeracy; Learning
+Language learners; Oral language; Vocabulary; Content literacy; Domain knowledge < Content literacy; Home language < Family literacy; English language learners; English learners; English as a second language; English for speakers of other languages < Language learners; First; second; etc; language (L1; L2; etc; )< Language learners; Home language practices < Oral language; Specialized vocabulary < Vocabulary; 1-Early childhood
+Feature selection; Feature extraction; Object recognition; Cloud computing; Recommendation system
+Ex-post analysis; Master's program; Universite Laval; Training
+Language development; language disorder; longitudinal trajectory; latent class
+dental education; educational materials; textbooks; digital library; electronic books; e-text; e-book; e-reference
+
+Human rights; Forensic psychiatry; Jurisprudence; Psychiatry
+Pelvic ring fractures; Non-union; Malunion; Internal fixation
+Recommender systems; Curated recommender systems; E-commerce strategy; E-business; Online retail
+blood characteristics; captivity; hematology; northern fur seal; serum chemistry
+
+Value-relevance; Linear information model; IFRS; Price regression model; Return regression model; Panel data
+
+
+Control; UTAUT; Technology acceptance; Smartphone; Tourism; Hotel; Risk; PLS-SEM
+Acute care surgery; pancreatic necrosis; pancreatic necrosectomy; practice management guideline; evidence-based medicine
+Congenital syphilis; antenatal screening; neonatal screening; T. pallidum; treponemal tests; non-treponemal tests; sexual health clinic; contact tracing; electronic patient records
+Sleep duration; Total time in bed; Sleep quality sleep efficiency; Weight status; Elementary school children; Electronic devices
+mobile medical application; Micromedex; health informatics; pharmacoinformatics; drug information; drug references; drug names
+Disability; Perinatal care; Pregnancy; Prenatal care; Women's health
+Pittosporum viridiflorum; Pittosporaceae; Anticancer; Acaricidal; Antimalarial; Triterpenoids; Glycosides
+
+
+eMTCT; POC CD4; retention; Option B; Zimbabwe
+FlyBook; balancers; chromosome aberrations; genome; screens
+Sustainability; Environmental education; Children's books; Nonfiction; Gender; Consumer behavior
+Alternative medicine; Ayurveda; Chinese medicine; Homeopathy; Plant remedies; Shiddha; Urinary stone; Urolithiasis; Unani
+
+Event-based social networks; Social event recommendation; Latent factor models
+A. sieberi essential oil; Pityriasis versicolor; Dermatophytes; Microsporum
+Cognitive aids; Dosage error; Pediatric emergency; Pediatric emergency care
+Ring14 syndrome; Recommendations; Caregivers; Best practices
+
+Book recommendation system; Incentive models; Behavior analysis
+Regionalization; Decentralization; Health management; Brazilian National Health System; Primary Health Care
+IUPAC and IFCC Silver Book; Scientific nomenclature; Measurement of quantities; Interoperability
+Psychosis; schizophrenia; cardiometabolic; guidelines; multi-morbidity
+
+Cadaver; Filler injections; Cannula; Lip augmentation; Emboli
+News recommendation system; geolocation; long-short preferences; hybrid recommender
+
+
+ventriculitis; meningitis; cerebrospinal fluid shunts; cerebrospinal fluid drains; central nervous system infections
+ventriculitis; meningitis; cerebrospinal fluid shunts; cerebrospinal fluid drains; central nervous system infections
+Essential oils; Extracts; GC-MS; Achillea; Biological activity; Phytochemical activity
+Networks and communities; social networks; product networks; diffusion; electronic commerce; exogenous demand shock
+antenatal care; antiretroviral therapy; HIV; pregnancy; prevention of mother-to-child transmission
+Nonfiction; Informational text; Comprehension; Vocabulary; Primary grades
+
+endovascular; informed consent; intracranial aneurysm; questionnaire; vascular disorders
+
+
+Drug-making; Veda; Ayurveda; Charaka Samhita; Susruta Samhita; Ayurvedic Pharmacopoeia
+Aridzones; Empiricalequations; Floodanalysis; Hydrology; Unit hydrograph
+Second-Year Undergraduate; Collaborative/Cooperative Learning Computer-Based Learning; Distance Learning/Self Instruction; Internet/Web-Based Learning; Testing/Assessment; Constructivism; Student-Centered Learning
+albumin; ascites; cirrhosis; paracentesis
+
+
+
+Group recommender system; memory-based collaborative filtering; aggregation technique; group neighborhood; RMSE; F1 measurement
+Review; sentiment analysis; topic modeling; classification; lda; MALLET; nltk; opinion mining; wordnet; sentiwordnet
+E-government; public institution; online collaboration; document management system
+Perceived usefulness; User satisfaction; Allama iqbal open university; Pakistan; Perceived ease of use; Web-based services
+Research methods; Classification; Twitter; Content analysis; Social network analysis; Blog; Microblogging; Keyword analysis; Social network systems; Tumblr
+unit testing; test quality; metrics
+Recommender systems; similarity distance; hybrid filtering; API
+Endoillumination; Light filters; Phototoxicity; Vitreoretinal surgery
+Recommender system; Group recommendations; Travel; Tourism; Hybrid; Collaborative filtering; Content-based recommender
+mobile recommendations; context-aware recommendation systems; dataset generation; evaluation
+
+Book; Recommendation engine; Recommendation platform; Recommendation system; Recommender engine; Recommender platform; Recommender system
+
+
+Air travel choice behavior; individual level modeling; mixed kernel density estimation
+Recommendation system; collaborative filtering; association rule mining; big data
+
+Metadata; Ontologies; Information visualisation; Learning objects; Knowledge organisation systems; Visual search interfaces
+sexuality; gender; marriage; marital bliss; Franco's Spain
+Performance; PLS; Crowdsourcing; Booking.com; Crowdvoting; New business models
+Parasocial relationships; Child development; Learning; Character design; Interactive media; Video
+
+recommender system; hybrid method; user personality; attribute based; book
+Supply chain finance; Systematic literature review; Inter-organizational cost management; Supply chain costing
+social book search; query expansion; recommended degree
+user purchase behavior; cross-border E-commerce; social network; UTAUT
+Face Detection; Viola Jones; Haar Classifiers; Emotion Detection; Fisherfaces; OpenCV; Computer Vision
+Hybrid Recommendation System; Context Collaborative Filtering; User-based; Item-based
+Recommender Systems; Collaborative Filtering; Content-based Filtering
+E-commerce Purchase Prediction; Clicking Behavior Data; Probability Statistics
+OBPM model; Online Travel Agency (OTA); Online behavior pattern; Affordance; Perception; Decision making
+History of neurosurgery; trepanation; epilepsy; wilder graves penfield; Renaissance; electroencephalography (EEG)
+Recommender System; typicality; collaborative filtering
+Recommender systems; collaborative filtering; K-Means clustering; One-Pass; online
+Digital library for children; Library navigation; Visualized interface; Customized classification scheme for children books; Serious game
+ammonia; environmental impact; livestock farm; farm-gate balance; nitrogen use efficiency
+Indirect comparisons; Bucher; MAIC; AM NOG; dissimilarity
+fruitify; augmented reality; markerless; nutritional information; awareness
+Tourism; Planning; Scheduling; Android; Mobile Application
+domain-specific knowledge graph; recommendation systems; hierarchical relationships; probabilistic soft logic
+
+overseas development; book publishing industry; opportunities; evaluation
+
+Recommendation system; Ranking-based recommendation; Collaborative filtering; Hybrid recommendation
+Recommender system; Gradient boosting decision tree; Bundle recommendation
+e-books; continuance intention; technology acceptance model; higher institutions of learning; developing country; South Africa
+DB consistency; Recommender systems; Collaborative filtering; Matrix factorization; Pruning; Data quality; Evaluation
+book recommendation system; data mining; association rule mining; apriori; apriori inverse
+Recommender Systems; Hybridization Methods; Genetic Algorithms; Digital Onomastics; Web Data Mining
+Recommender systems; Machine learning; Linked open data
+
+
+barter; swap; exchange; reciprocity; collaborative filtering; social dynamics; temporal dynamics; matrix factorization
+Bio-economy; Business models; Forest; Literature review
+Lodging Recommendation; Context Awareness; Learning to Rank; Consumption Behavior; The Sharing Economy
+HAI; Agent robot; Designable; Book introduction; Interaction design
+Recommender systems; information retrieval system; recommendations; collaborative filtering; content filtering; hybrid filtering
+Recommender Systems (RSs); community detection; Louvain method; IF-ICF
+Recommender system; matrix factorization; personal values
+Learning data; Recommendation System; Personalized Learning; collaborative learning; video learning resources and annotation system
+Recommender Systems; Serendipity; Community Structure; Link Prediction; Node Participation; Node Similarity
+User profile; Recommender system; Coreness; Representativeness; Involvement
+E-book; highlighter; usage pattern; suggestion of highlighting
+
+Heritage values; Preservation; Energy efficiency; The guidelines; Energy renovation
+Recommender systems; types; algorithms; ecommerce; data Science
+Keyword recommendation; preferences; interval type-2 fuzzy sets; personalization; user modeling
+knowledge creation; natural language processing; web tasking; user intent; personal assistance; service discovery
+Darwin (Charles R.); descent with modification; Herschel (JFW); Historical Sketch; Hunter (John); Matthew (Patrick); medical evolutionists; Natural Selection; Origin of Species; Two Essays; Wells (William C.)
+Parking planning; management strategy; Artificial Intelligence; data algorithm
+low power; education; digital design; textbooks; systematic review
+opinion retrieval; unsupervised algorithm; relevant reviews
+Children; adolescents; caregivers; HIV; disclosure
+Academic libraries; Decision support systems; Recommendation; Book acquisition; Recommender network
+Recommendation system; digital game
+systems analysis; applications design; smart digital library; quality function deployment
+Bibliotherapy; adolescent; stress easing; reading interest; reading recommendation
+evaluation; professional training; education process; school of higher education
+Cross-Domain Collaborative Filtering; transfer learning; recommender system; similarity network fusion
+
+personalized book recommendation; Chinese Library Classification Method; Dominant and Recessive Feedback Model
+Big data analysis; AR technology; Comic and animation books; APP design; Android operating system
+F. esculentum; F. tatarium; F. cymosum; Phytochemistry; Pharmacology
+book impact assessment; topic extraction; review mining; altmetric; library holdings
+recommender systems; stochastic block model; collaborative filtering; social recommendation; scalable algorithm
+Context-aware computing; User models; Dialog analysis; Recommender system
+capacity building; evaluation methods; evidenced-based practice; health policy; program evaluation
+Health Impact Assessment; HIA guide; healthy public policy
+Multidimensional; Tensor factorization; Context-awareness; Rating; Recommendation; SFS
+
+Recommendation systems; Individual modeling; Multiple data sources; Social networking platforms; Multiple perspective based analysis ;User behavior
+Visual acuity; Near visual acuity; Reading; Vision tests; Ophthalmological diagnostic techniques
+e-book; English reading; guidance mechanism; learning portfolio; lag sequential analysis
+Author recommendation; book recommendation; content-based recommendation; self-organizing map (SOM); tree structure
+
+Food and nutrition education; Nutritionists; Professional practice
+Finding research reports; Analytic induction; Scholarly writing practices; Reading research reports
+Pseudo relevance feedback; Correlation graph; Query expansion; Social information; Social book search
+Recommender Systems; Linked Open Data; Learning to rank; DBpedia; hybrid recommender systems
+publication patterns; social sciences & humanities; prestige indicators; micro level; Spain
+Collaborative filtering; Genre correlation; Movie classification; Movie recommendation
+Progressive chess; Chess; Heuristic search; Heuristics; Checkmate search; A* algorithm; Minimax search; Combinatorial complexity
+The long tail; Sales rank distribution; Popularity; Pricing; Competitive price promotions; Pricing decision support systems
+Online retailing; Communication practices; Recommendations; Word of mouth; Sales
+correlation; databases; fatty acids; organic acids; surface tension
+Action plan; Army; Care management; Continuity of treatments; Post-traumatic stress disorder syndrome (PTSD); Psychic trauma
+
+community engagement; community health; community-embedded learning; curriculum; education; interdisciplinary learning; neighborhood; nursing; service learning; social sciences; SWOT evaluation
+Kigelia africana; Herbal; Traditional; Phytochemistry; Pharmacology
+
+ADHD; Adolescent; Attention deficit hyperactivity disorder; Primary care; Treatment; Evaluation
+museum; indoor air; urban area; Spearman correlation; I/O Ratio
+
+Privacy; detection; distinguishability; profiling; search; recommender-system; Bayesian-inference
+
+Social media; Book recommendation and marketing; Audience detection; Group-LDA
+PMTCT; Pregnancy; HIV counseling and testing; Kenya; Guideline implementation
+
+Garnet; mineral classification; X-ray diffraction; crystal structures; atomic theory; isomorphism; substitutional solid solution; lattice strain; volume; Invited Centennial article
+Online social network; Community similarity degree; Comthunity recommendation; Community selection
+Model risk; Capital requirements; Value-at-Risk; Expected Shortfall
+WHO classification; Male genital organs; Urogenital tract
+medicinal plants; sedative; narcotic; analgesic; Dehloran; Ilam; Iran
+Recommender systems; Collaborative filtering; Relevance models; Long tail
+Mexican traditional medicine; Anxiety; Depression; Medicinal plants
+Recommender systems; Collaborative filtering; User personality; Cold-start; Cross-domain; Active learning
+
+Education; RCT; Intervention; Foster care; Out of home care
+Artisanal fisheries; Fisheries conflicts; Common octopus; TEK mapping; GPS data-loggers
+
+Collaborative filtering; NHSM; New user cold start; Recommender systems
+The Holy Quran; Verses; Nutritional concepts; Foodstuffs
+Questionnaire survey; Ethnopharmacology; Human health; Toxicology; Safety
+Excessive crying; Infant; Circadian rhythm; Infantile colic
+Epilepsy surgery; Temporal lobe epilepsy; Extra-temporal lobe epilepsy; Systematic review
+Hotel recommendation; Online hotel booking; Online review; Online travel agency; Multi-criteria decision; Multi-dimensional sequencing; Multi-preference consumer; Stochastic programming
+
+High BMI; Pregnancy; Women's health; Qualitative study; Phenomenology
+irrigation; smallholder-growers; scheduling; sugarcane; evapotranspiration
+live broadcasting; advertising; scheduling; random capacity
+Gleason grading; Prostate cancer; Genomics; Precision medicine; Active surveillance; Risk
+Booking; e-tourism; flow theory; intention; technology acceptance model; tourism Web acceptance model
+
+Rectal injury; practice management guideline; extraperitoneal; penetrating
+
+
+
+Basic insulation; bonding; direct contact; electrode; exposed conductive part (ECP); extraneous conductive part (EXCP); grounded; grounding; indirect contact; protective conductor (PE); protective earth neutral (PEN)
+urachal; urachus; cancer; carcinoma; mucinous; cystic; urothelial; staging; adenocarcinoma; bladder
+disaster-related infectious diseases; health education; outbreak; prevention; tetanus
+Dislocations; Topological defects; Liquid crystals
+Croatia; incarcerated persons; library services; prison libraries; social justice
+E-book; English reading; Cooperative learning; Learning guidance; Learning portfolio
+
+Caseload midwifery; Continuity of care/r; Satisfaction; Experience; Randomised controlled trial
+Pediatric pain; Review; Bibliometric analysis; Meta-trend analysis
+vulvodynia; vestibulodynia; chronic pelvic pain; therapeutics; radiofrequency ablation; pulsed radiofrequency; spinal cord stimulation; physical therapy; transcutaneous electric nerve stimulation; review
+Collaborative filtering; Evidence-based software engineering; User activities; Implicit feedback; Sparsity problem; Systematic literature review
+Ultrafiltration; Reverse osmosis; Desalination and treatment plants; Transient flow; Hydraulic analysis; Water hammer
+Recommender system; Moral factor; Empirical study; Gender
+Book recommender system; collaborative filtering; content-based filtering; association rule mining
+Microclimatic quality; Indoor air pollution; I/O ratio; Deposition velocity; Air exchange rate; Performance Index
+Customer Reservation System; Data Mining; Clustering; Association Rules; Collaborative Filtering
+recommendation systems; content based filtering; genetic algorithm
+Recommender system; synsets; Feature vector
+Crossmodal Information Services; airports; Seamless Air Mobility
+
+
+
+Conversion; Collaborative filtering; Search listings; Online hotel booking; Online customer reviews and ratings
+boys reading; teaching; literature; curriculum
+Collection development; Electronic books; Literature review; National libraries; Bibliographic systems; Legal deposit
+Recommender System; Face Recognition; Face Detection; TV; Emotion Detection
+shift to rail; sustainability; industrialisation; europe; spider plus
+Keyword-based Search; Recommendation Systems; Mobile Computing; Hidden Markov Model; Information Retrieval
+recommender systems; biclustering; data mining; big data
+Case studies; Social media; Qualitative research; Library catalogues; Blogs; Tagging
+Book Recommendation; Opinion Mining; FPInterscet; Apriori
+Temporal event sequences; recommender systems; prescriptive analytics; visual analytics
+
+learning system; e-learning; adaptive; personalized
+heutagogy; paragogy; MOOC; self-determined learning
+
+Injuries; orthopaedic; water slide
+Book-rental; Recommendation; MapReduce; Hadoop; Big data
+Skull fracture; basilar; petrous bone; cranial neuropathies; traumatic; cerebrospinal fluid otorrhoea
+Flipped model; children's literature; primary and pre-primary education
+MOOC; resource construction; book recommendation; library classification ontology
+recommendation system; natural language
+Computer forensics; Evidence acquisition; Evidence preservation; Live data forensics
+Engineering courses; E-books; APP; Usability; Learning styles
+Recommendation; neural network; book; demographic; ISBN number; Age; IP Address
+Information Retrieval; Digital Libraries; Ontologies; Semantic Web; Book Search; Ranking; Recommendations
+Online reading community; primary schools; reading interest; reading habit; game-based learning platform; Modeled Sustained Silent Reading (MSSR)
+
+Collaborative filtering; Tensor decomposition; Semantic similarity measure; cross domain recommendation
+Domain-specific knowledge graph; Relationship ranking; Recommendation
+Circuit breakers; insulated-case circuit breakers; low-voltage circuit breaker; low-voltage power circuit breaker; miniature circuit breaker; molded-case circuit breaker; overcurrent protection; power circuit breaker
+
+Hotel recommendation; Hybrid recommender system; Collaborative filtering; Matrix factorization; Bayesian Personalized Ranking
+
+Sudden cardiac death; Childhood; ECG; Screening; Pre-participation; Sport; Athletes
+
+Recommender systems; collaborative filtering; matrix factorization
+Beacon; Digital Reading
+Catalan children literature; cultural policy; censorship; education; literacy mediator; legislation; Lola Anglada; La Galera; Propaganda Commissariat of the Generalitat de Catalunya
+Book annotation; Common space; Social tag; User tagging behaviour
+e-Tourism; Travel attraction; Recommender system; Semantic information; Knowledge graph; Ontology
+Eosinophilic Esophagitis; Proton Pump Inhibitors; Omeprazole; Esomeprazole; Lansoprazole; Rabeprazole; Systematic Review; Meta-Analysis
+Internet bookstore; personalized service; data mining; recommendation system
+
+Book recommendation system; association rule; content based filtering; collaborative filtering
+social tagging; big data; semantic similarity; recommendation engines; topic models; document embedding
+
+Behavioral Modeling; Facebook; Recommender System; Social Network
+Java Exception Handling; Github; Best Practices; Boa
+Book recommendation; Content analysis; Collaborative filtering; Children
+
+Targeted therapy; Advanced renal cell carcinoma; Everolimus; Axitinib; Treatment patterns; Dosing; Costs
+Recommendation System; Collaborative Filtering; Ratio Based Collaborative Filtering; Hadoop; MovieLens Dataset
+Recommendation; Trip; Collaborative Filtering; Item-based
+Tourist service recommendation; Cross domain; Explicit feature; Latent feature; Matrix factorization
+Recommendation systems; collaborative ranking; social relationships
+Architecture Description; Open-Source Software
+Qohelet; Mesopotamian and Biblical Wisdom; Biblical criticism
+Topic modeling; Latent Dirichlet Allocation (LDA); Collaborative filtering; Explicit Semantic Analysis; Point Mutual Information; Cross domain recommender systems; content based retrieval
+Recommendation system; cold start; scalability; collaborative filtering; Mahout
+semantic techniques; Jaccard similarities; Dice; Overlap; edit distance; recommendation
+Recommendation; Collaborative Filtering; Item-based; User-based; Hybrid
+library resources classification; machine learing; PU Learning; Naive Bayes; K-nearest neighbour; recommender system; recommender agent; collaborative filtering
+Georgia; e-learning; students; budget
+Recommendation system; Trust; Collaborative filtering; Association rule mining
+NDC; Nippon Decimal Classification; Wikipedia
+Semantic web; Information retrieval; Ontology; Ranking; Recommendations; Search engines
+Based on the user; collaborativefiltering; association rules mining; books recommended
+Book content comparison; Text descriptors; Radar chart intersection area method; Recommender system
+
+Urban cellular automata; Hierarchical urban networks; Big data analytics; Complexity theory
+
+
+
+Time sequence information; collaborative filtering; book recommendation
+Recommender system; Visually impaired person
+Recommender system; Dirichlet distribution; Probabilistic topic model; Shared account; Gibbs sampling
+data mining; personalized recommendation; web spider; the user interest model; collaborative filtering
+Food Therapy; Hypertension Control; Diet; Nutrition; Review
+
+Forgiveness; REBT; Self Acceptance; Life Acceptance; Other Acceptance; Trauma; Phenomenology
+Gestational diabetes; Patient compliance; Patient-centred care; Decision-making; Reminder systems
+Financial vulnerability; Nonprofit; Revenue diversification; Overhead; Asset surplus
+Literature review; Recommender systems; TV-content; TV-related content
+Epicutaneous test; Patch-Test; occupational eczema; Joseph Jadassohn; Bruno Bloch; Guido Miescher; Walter Burckhardt; Hans-Jurgen Bandmann
+
+Breast reconstruction; Acellular dermal matrix; Meta-analysis
+Social network; Hypernetwork; Topological characteristics; Collaborative recommendation
+
+
+Edition; Publication; Publishers; Distribution; Promotion; Marketing; Market; Books; eBooks; eReaders; Bookshops; Bookstores; Readers; Authors
+literacy; pediatrics; primary care
+Recommender systems; Collaborative filtering; K-means clustering; Centroid (seed) selection clustering
+Trust-aware recommender systems; Collaborative filtering; Graph clustering; Sparsest subgraph finding
+Recommender systems; evaluation; survey; technology enhanced learning
+Henry K. Beecher; Cambridge Declaration of Consciousness; assent or dissent in animal subjects; animal research; animal experimentation
+Recommender system; Books recommendation; Implicit feedback; Collaborative learning
+Complexity Theory; Cosmology; Evolution; Genomic structure
+Privacy protection; Balance precision; Similarity metric; Recommendation
+ritual; childbirth; conception; charms; recipes; saints; liturgy; amulets; performativity; medieval
+Supply chain management; Dual channel; Electronic book; Channel management; Pricing decision
+alcohols; correlation; databases; surface tension
+choice architecture; contingencies; freedom; governmental control; nudge; paternalism
+Risk; Intuition; Trust; Consumer behavior; E-commerce
+Liner shipping; Network revenue management; Slot allocation; Bid-prices
+Complexity; Systems biology; Dissipative structures; Evolution
+Weight loss strategies; Child weight control; Dieting; Health literacy; Information-seeking; Health communication
+Literature review; Human behavioral intention to use; Human-computer interaction; Information technology/systems; Technology acceptance model
+nutrition assessment; pregnancy in adolescence; classification; body mass index; ideal body weight; prenatal nutritional physiological phenomena
+extensive reading; modeled sustained silent reading; book recommendation; My-Bookstore
+
+
+correlation; databases; refrigerants; surface tension
+Search; Product discovery; Product recommendations; Recommender systems; Long tail
+
+
+Biological activity; Warburgia; Ethnobotany; Antimicrobial drimane sesquiterpernoids; Phytochemistry
+Behaviour change; Intervention design; Eating behaviour
+
+Collaborative filtering; HU-FCF plus; Hybrid method; New user cold-start; Recommender systems
+Leadership competencies; Sales excellence; Superheroes; Management styles; Storytelling
+Bipartite relations; Graph visualization; Radial visualization; Bar charts; Information visualization
+Recommender systems; Multi-objective optimization; Accuracy; Diversity; Novelty
+Smoking; Children; School; Intervention; Sport; Process evaluation; Implementation
+
+relevance and impact; academic research; journals
+experiential learning; leadership variety; context dependent
+
+
+
+Federal Reserve; Banking crises; OMW Sprague; Lender of last resort
+Citrus ontology; Hilly citrus; Fertilization; Irrigation and drainage; Nutrient imbalance
+recommender system; argumentation; interaction; personalisation; reasoning
+Adult attachment; mental health; attachment-informed services; mental health service models
+type-ahead search; instant search; exploratory search; autocompletion; query suggestions; caching
+Blunt injury; Traumatic aortic injury; Blunt aortic trauma
+essential medicines; health care delivery; primary health care; standard treatment guidelines; Timor-Leste
+Environmental health; Children; Radiation; Air pollution; Heat stress; Urban climate; Vulnerable
+medical philosophy; outcome assessment (health care); physician-patient relations; physician's role; systems theory
+Medical devices; Benefit assessment; Reimbursement; Patient safety
+
+
+awareness; Canada's Food Guide; use
+caregivers; dementias; illness story; therapeutic interventions
+English language; China; survey; medical education; structural equation modeling (SEM)
+
+
+The digital repositories; the free access of information; Alexandria University; Damascus University; Khartoum University; King Saud University; Nayef University for security sciences; King Fahd University for petrol and minerals; Dspace system
+Geothermal; solar; windy energy; GIS; Renewable energy
+social networking sites; data mining; recommendation system; collaborative content filtering
+recommender system; euclidean fuzzy; similarity; knowledge based recommender system
+Agriculture; AGRIdaksh; IASRI; IPM; Tomato
+Geographical Information System(GIS); Geographical Positioning System; (GPS); Field Book Mesuarment(FMB); Content Mangmeent System(CMS)
+Machine Learning; Predictive Modelling; Supervised Learning; Regression Models; Classification Models
+
+Recommender Systems; cold start; IBSP
+Document retrieval; InL2; language model; book recommendation; PageRank; graph modeling; Social Book Search
+Public Datasets; Recommender Systems; Recommendation Evaluations
+used goods; recommender systems; data mining; artificial neural network; decision making; online trading
+Recommender System; Hybrid Technique; Ontology
+
+
+
+Collaborative Filtering; Spatial autocorrelation; Weighted Voronoi Diagrams; Recommendation algorithms; Scalability
+Blunt aortic injury; traumatic aortic injury; blunt aortic trauma
+Recommender systems; Review analysis; Hidden aspect; Regression model
+Recommender System; Preference; Negative Preference; Big Data; MapReduce
+book culture of ancient Russia; humoral medicine; natural and cosmic cycles; body oriented diagnostics; magnetism; modern science
+
+
+Mobile Cloud Computing; Cloud Computing; AAA Vulnarebilities; STRIDE
+Digital libraries; Reading; Multi-media; User interfaces; Electronic books; Search engine
+
+Manuscript collection; Literary heritage; Ajami; Arabic; Taqet (book shelve), Harar; Dirre Shaykh Hussein; Ethiopia
+Web data analysis; data processing; e-commerce
+Industrial case studies; multi-criteria ranking; travel applications; travel recommendations
+
+
+
+recommendation system; collaborative filtering; book
+Entity recommendation; Context; Semantic; Knowledge base; Context-Selection Betweenness
+big data; library; service recommendations; twice matching
+Multimedia; Data Mining; Medicine; Library; Research and Application
+University library; recommendation system; information visualization; data mining
+query expansion; long-term social relation; short-term social relation; book search; recommendation degree
+Recommendation; Item-to-item; History; Analysis; Interaction
+Keywords recommendation; Probability based keywords recommendation; Digital library
+content-based recommendation; author recommendation; self-organizing map; tree-structured representation
+epilepsy; cats; oral therapy; phenobarbital; antiepileptic drugs
+basic insulation; bonding; direct contact; electrode; exposed-conductive-part; extraneous-conductive-part; grounded; grounding; indirect contact; PE; PEN; protective conductor
+Educational System; Principles of Education; Nationalisation; Textbook; Italy; XIX-XX centuries
+Recommender system; collaborative filtering; coefficients; similarity
+Internet of Things; Smart TV; App; Single Sign-On; OAuth; TLS; File System; XXE; XHR; Privacy; Samsung
+Sybil attack; Recommender systems; Fuzzy rules; Auto updating
+gender discourse; semantic analysis; eWOM; Big Data
+Collaborative filtering; Association rule mining
+Recommender system; implicit feedback; Collaborative filtering; Pearson correlation coefficient
+
+Classification; Feature Extraction; Recommendation system; Opinion Mining Technique
+Multicultural Knowledge Taxonomies; Alignment Methods; Integer Linear Programming; Quadratic Programming
+Library services; Library and information networks
+Library; System model; Data mining
+Recommendation Systems; Dynamic graph; Graph Visualization; Interaction methods
+Algorithm; Recommend System; Evolutionary Game Theory; GPS data
+Recommender systems; Resource description framework; Dublin core; FOAF; Semantic
+Hadoop; Personalization; Recommendation; Websites; HDFS; Map Reduce; Mahout
+
+Image Recommendation; Query Recommendation; Query Relevance; Suggestion
+Image suggestion; Query suggestion; Query relevance; Recommendation
+Learning data; Recommendation system; Personalised learning; Collaborative learning; Video learning resources
+Recommendation systems; Distributed collaborative filtering; Locality-sensitive hashing; Peer-to-peer; Anonymization; Privacy
+fuzzy quantifier; opinion mining; OWA; positional aggregation based technique; rank aggregation; recommendation technique
+
+line graph; data processing; curve fitting; grey models; cubic spline function; artificial neural network
+
+book recommendation; associated rule; Apriori algorithm; FAHP
+component; electronic books; e-books; e-textbooks; traditional paper textbook; student perceptions; faculty acceptance; E-learning
+
+Ontology combined; Social network; Interdiscipline
+
+
+recommendation system; Cyber-Anima; tensor decomposition
+Task-based recommendation; Task mining; Demand prediction; Collaborative filtering; Browser log analysis
+History; Books; Altmetrics; Scholarly communication; Citation analysis; Reader recommendation systems
+Intellectual disability; Families; White Paper; Health care; Social care
+Revenue management; Cargo; Multi-dimensional capacity control; Markov decision process; Dynamic programming
+Breastfeeding; Becoming a mother; Theory of planned behaviour; The Netherlands; Qualitative research cycle
+Stroke; Postoperative period; Cardiac surgery; Carotid surgery; Non-cardiac non-carotid surgery; General surgery; Risk factors time; Mortality; Quality marker
+
+color notation; color names; Munsell charts; Masuh; Jordan
+Recommender Systems; Optimal Stopping Theory; Quality of Recommendation; Stochastic decision making
+Video recommendation; Social media; Social similarity
+feed intake; suckler cow; silage; hay
+
+
+Dissemination; Popular press books; Writing
+Intelligent agents; Recommendation; Trust; Argumentation; Fuzzy logic; Reasoning
+Consensus; Jammu; Kashmir; Ladakh; Medicinal plants; India
+Crude oil supply chain; Strategic and tactical decisions; Mathematical programming model; Literature review
+Operating theatre; Computerisation; Theatre activity; Information technology; Health service planning; Productive operating theatre
+Pregnant women; Low-risk; Midwife-led; Obstetric outcomes; Postpartum depression
+Online review; eWOM; competition; recommendation system; instrument variable
+Veterans Affairs; Clinic visit; Discrete event simulation; Scenario analysis; Appointment type; Patient waiting time; Provider utilization
+RSV; respiratory syncytial virus; palivizumab; bronchiolitis; infants and young children; chronic lung disease; congenital heart disease
+RSV; respiratory syncytial virus; palivizumab; bronchiolitis; infants and young children; chronic lung disease; congenital heart disease
+literacy promotion; reading aloud; early brain development; language development; child development; school readiness
+Air travel demand; Price elasticity; Price endogeneity
+Suffering; Tsunami; Holistic; Health care; Philosophical analysis
+Caricion davallianae; Fen restoration; Grazing; Habitat enlargement; Mowing; Phytodiversity
+Obsessive compulsive disorder; Guided self-help; Computerised cognitive behaviour therapy; Cognitive behaviour therapy; Exposure and response prevention
+
+Clerodendrum serratum; Bharangi; Saponins; Antiasthmatic agent; Pharmacological activities
+Baby Friendly Hospital Initiative; Baby Friendly Health Initiative; Knowledge translation; Breastfeeding; Australia
+Laboratory error; laboratory standards; reference interval; veterinary in-clinic analysis
+Low-rank approximation; Recommender systems; Bound constraints; Matrix factorization; Block coordinate descent method; Scalable algorithm; Block
+correlations; DETHERM; DIPPR; REFPROP; surface tension; TDE
+Pneumonectomy; Pneumonectomy space; Drain
+Piracy; Publishing industry; Reprography; Publication rights; Nigeria
+Mixed methods; health systems; international health; research methods; public health
+Advertising; Book sales; Propensity score matching; Publishing
+Bed occupancy; Intensive care units; Critical care; Quality indicators; Health care
+Animal hairs; Human hairs; Microscopy; Morphology; SWGWILD; Wildlife forensic
+Recommender system; Content based recommender systems; Reclusive methods; Fuzzy sets; Folksonomy; Tags
+
+Networks; DICOM E-MAIL; DICOM (Digital Imaging and Communications in Medicine); IHE (Integrating the Healthcare Enterprise); XDS (Cross-Enterprise Document Sharing)
+
+584 low vision
+scoring system; relative humidity; temperature; sweat; horse
+Helena Antipoff; classes speciales; circulation de connaissances; histoires croisees
+United Kingdom; Expert systems; e-Health; Structuration theory; Referral; Resistance; Electronic patent records
+Social Network Analysis (SNA); Centrality; Clustering coefficient; PageRank
+Recommender systems; Cold start problem
+Biodiversity; Ungulates; Conservation; Ordination; Elk; Deer; Populus tremuloides; Climate; Livestock; Forest ecology
+Collaborative Filtering; Top-N Recommendation; Implicit Feedback; AUC optimization
+Top-N recommendations; Content-based recommender systems; Semantic Web
+web-based education; health promotion; Saudi Arabia
+spoken dialogue; booking system
+Collaborative Filtering; Recommender Systems; Popularity Bias; Novelty; Precision; Recall; F-Measure
+recommender systems; content-based recommendation; text reviews; user-generated content; implicit feedback; semantics; context
+cloud-based collaboration resource; communication; Internet of Things; therapy; rehabilitation; healthcare
+
+Soil morphology; soil classification; soil chemicophysical properties; mineralogy; crops; land information systems; Philippines
+
+
+Dataset; mining; Twitter; Goodreads; YouTube; Pandora; IMDb
+Deep learning; Recommender systems; Neural network language models
+topic maps; recommendation systems; books
+
+Collaborative Filtering algorithm; Hadoop; HDFS; mapReduce; recommender system
+Information; Pregnancy; Internet; Information seeking
+advocacy for horticulture; promotion of horticulture; diversity of horticulture; health; wealth and wellbeing with horticulture
+Recommendation; Rating prediction; Matrix factorization; Yelp
+
+flagged taxi; passenger-refusal; gps trajectory; crowdsourcing; human intelligent task
+Recommendation System; data mining; association rule
+Recommender system; Collaborative filtering; Content filtering; Demographic filtering; Time; Web scraping
+
+
+
+faculty development; faculty learning community; teaching; learning
+green tea; blood pressure; overweight; obese; systematic review protocol
+Social Tags; Quality Evaluation; Tag types; Web2.0
+E-Book; SQ3R; Annotation; Reading guidance
+Collection development; China; Interlibrary loan; Western books; Peking University Library
+Print Logs; Print Tasks; the Wisdom of Crowds; Clustering; Frequent Pattern Mining
+
+Recommendation systems; Collaborative filtering; Personality; Cold start
+List Recommendation; Collaborative Filtering
+Personalized Query Processing; Privacy in Information Systems
+
+
+
+recommendation; books; K-12; teachers
+Recommendation system; books; K-12; readers' advisory
+
+Information extraction; Opinion mining; Restaurant recommendation system; Machine learning
+Linked Open Data; Hybrid recommender systems; Stacking
+
+
+
+Recommender systems; Cold-start problem
+Recommender System; content filtering; collaborative filtering; measuring similarity; Euclidean distance; Manhattan distance; Minkowski distance; Cosine distance
+book suggestion; latent topic; library service; collaborative filtering
+
+e-marketing; link mining; online shopping; OWA; ORWA; recommendation technique
+Rheumatoid arthritis; Patient access; Biologic agents; Pharmaceutical policy; Greece
+
+Association rule; Classification; Recommendation system; User based collaborative filtering
+Opinion mining; Recommendation System; User reviews; Naive Bayes classifier
+Association rule; Collaborative filtering; Content based filtering; Recommendation system
+Book Recommendation; Recommender System; Library Loan Records; Support Vector Machine (SVM); Random Forest; Adaboost
+
+Recommender systems; CGPRANK; User feedback; Kernel methods; Exploration-exploitation tradeoffs
+Recommender Systems; Diversity; Genres
+Recommendation; Frequent N-adic Concepts; Tags; Contexts
+group recommendation; topic identification; social networks
+Recommendation system; Moral factor; Empirical study; Gender
+e-book; English reading; guidance mechanism; learning portfolio
+Top-N; Community Detection; Influence; recommendation
+book recommendation system; social networks in Japan; bibliographic information extraction; Japanese morpheme analysis; regular expressions
+Cross-media Recommendation; Feature Selection; Sparse Representation; CADAL
+
+
+Midwifery; Maternity; Text messaging; SMS; Caseload; MGP; Continuity; mHealth
+
+Group decision making; Data mining; Recommendation systems; Consensus temporal pattern; Closed pattern
+business value; co-creation; consumer participation; empirical research; social commerce
+
+Postpartum; GHQ-12; Wellbeing; Psychometric; General Health
+cyclodextrins; drug development; formulation toxicity; methylcellulose; nonclinical toxicity; nonclinical vehicles
+
+
+HEALTH SERV RESEARCH; INFECTIOUS DISEASES; NEONATES; PREGNANCY; SYPHILIS
+Motor activity; Actigraphy; Methods; Reproducibility of results
+thermodynamics; palladium oxide; solubility; palladium ion
+Video games; Collections; History; Academic libraries
+Quality improvement; Patient safety; Resources; Health economics; Healthcare associated infection; Infection prevention and control
+Online reviews; Experience goods; User preferences; Recommender systems; Demographic recommendations
+learning supported by libraries; location-aware book recommendation; mobile learning; cooperative problem-based learning; learning style
+Cultural resource management; historiography; legislation; preservation; civil society; urban heritage; Edinburgh; Scotland
+CAM in children; Religion therapy; Parents' children; Honey therapy
+EFSUMB; website; educational sites; guidelines; recommendation
+Chronic low back pain; Meta-analysis; Yoga
+Hepatitis C virus; Hepatitis in pregnancy
+survivorship; social support; transition in care; long-term follow-up care; qualitative research
+Pregnancy; Body mass index; Morbid obesity; Caesarean section; Diabetes gestational
+Fumigation; Dhoopana; Ayurveda; Inhalation therapy; Drug discovery; Drug delivery
+hypoxemia; anemia; high-altitude diseases; acute mountain sickness; low-pressure chamber; Paul Bert
+
+China; Clinical pharmacy; Community pharmacy; Health care; Pharmaceutical care; Pharmacy practice
+Poisoning; National poison center; Chemical; Household products; Chemical products
+History; Neurology; Nineteenth century; Migraine; Headache
+
+Asthma; Children; Culturally relevant; First Nations; Health education; Knowledge translation
+
+Capacity allocation; Services; Health care operations; Markov decision process; Dynamic programming
+Accuracy; Analysts; Analysts' reports; Valuation models; Target price
+eLogistics system; SMEs; Open standard; Open source; Platform
+Placenta abruption; Placenta praevia; Antepartum haemorrhage; Foetal monitoring; Amphetamine use and pregnancy; Drug use and pregnancy; Smoking and pregnancy; Post traumatic stress disorder; Trauma; Trauma informed care; Neonatal Apgar scores; Neonatal cord gas results
+Evaluation; Training portfolio; Compliance; Family medicine residents
+
+HIV; antenatal; antiretroviral therapy; mother-to-child transmission; South Africa
+
+
+groundwater; latrine; privy; sanitation; siting standards; water quality
+
+product value; cross-selling; electronic commerce; recommendation systems; social networks
+Group recommender; Content-similarity; Popularity; Movie
+Social networks; Collaborative filtering; Similarity measure; Singular value decomposition
+quantitative research; ethics in research; outliers
+Advanced Public Transportation Systems (APTS); Advanced Traveler Information Systems (ATIS); intermodal transportation; route planning
+
+
+migraine; lactation; breast-feeding; treatment
+
+Caesarean birth; Normal birth; Qualitative research; Obstetrician
+cat; diet; dog; FGF-23; hyperparathyroidism; renal
+Surgical education; Plastic surgery; Professionalism
+Afrikaans; Dutch; verbs; Totius; corpus; corpus linguistics; written language; variation; norms; standardisation
+academics medicine; training; education; fellowship
+
+
+Ethnobotany; Medicinal plants; Traditional medicine; South America; Peru
+fuzzy logic; recommendation system; trust; user preferences; personalization
+Queuing; Simulation; Arrival Rate; Service rate; waiting time
+Pregnancy; Snakes; Scorpions; Spiders; Hymenoptera; Jellyfish
+Recommendation; Social trust; Personalization; Collaborative Filtering
+Recommender systems; E-tourism; Evaluation; Decision Making
+OAuth; collaborative filtering; social networks
+Bayesian network; trust model; recommendation system
+environmental impact assessment; environmental assessment; cumulative effects assessment; Canadian Environmental Assessment Act; science; practice; guidance
+Collaborative filtering; cross-domain recommendation; matrix factorization; tags
+concentration; content; quantity; metrology; terminology
+Arabic Programming Literacy; Upper Elementary
+Interactive Multimedia Electronic Book; Performance of Geometry Skills; Attitude Towards E-book
+matrix decomposition; recommendation system; disease spread; Norovirus; influenza; early detection; artificial neural networks; ensemble
+recommendation system; book recommendation system; recommendation algorithm; content filtering
+Recommender Systems; Content-based Filtering; Reclusive Methods; Fuzzy Theoretic Approach; Interactive Genetic Algorithm
+Graph; Social Network; Expert Relevance; Visual Layout; Similarity Measure; Recommender systems
+
+Financial stability; 100 percent reserve banking; Open market operations in equities; Selective credit controls
+New technology; Interlibrary loan; Resource sharing; Ebooks; Policies
+Book review recommendation; Heterogeneous data integration; Book review quality measurement; Readers; Books
+library recommendation; collaborative filtering; supervised learning; ensemble learning
+Template analysis; challenges in open and distance learning; distance education
+
+Recommender Systems; Fallback Model; Proximity Search
+Recommender systems; content-based recommender system; item taxonomic descriptors; concept hierarchy; items' popularity; concept vector; user interest
+User preferences; social networking; Recommendation System (RS); Collaborative Filtering (CF)
+ORBIT; Hybrid recommendation; precision; accuracy; F-measure; recall etc.
+NOVA; Hybrid recommendation; precision; accuracy; F-measure; recall etc
+
+mobile reading; intelligent recommendation system; slope one; collaborate filtering
+Resource capabilities; Customer loyalty; Hotel performance variables; Online guest ratings; Hotels; UK
+search engines; recommender systems; interest-item matching; web knowledge
+cold start; association rule; clustering; taxonomy; user profile
+opinion mining; recommendation technique; user review; feature analysis
+e- Textbook; Personalized recommendation; learning resources; learning activities
+Collaborative filtering; Generator system; Recommendation system
+Recommendation systems; Linked Open Data (LOD); Interlinking; Attribute selection; Attribute-Value
+Apriori algorithm; books recommendation; transaction features; association rules
+algorithm; tagging; recommender; folksonomy
+Influenza vaccines; Students; Medical
+
+
+Pituitary; apoplexy
+Midwifery; Midwifery education; Health care in Jordan; Midwifery education curriculum documents; The role and scope of practice of midwives; Maternity care
+Postnatal care; Swaziland; Cultural practices; Health beliefs; Values
+
+Hypoglycemia; Octreotide; Poisoning; Sulfonylurea
+
+Eurotium halophilicum; Aspergillus halophilicus; Book deterioration; Cultural heritage; Mold contamination; Xerophilic fungus; Compactus shelving
+social network; social media; peer effects; homophily; slotting; selection; electronic markets; electronic commerce; product networks
+
+Intimate partner violence; primary care; quality of care; women's health
+Health literacy; Colonoscopy; Comprehension; Socioeconomic status; Preparation
+diagnosis; encephalitis; infection; meningitis; nervous system; PCR
+
+Type-2 fuzzy ontology; Multi-agent system with ontology; Information security in fuzzy systems; Automation of flight booking system; Personalization with type-2 fuzzy ontology
+Nanomaterials; Exposure assessment; Risk assessment; Modeling; REACH; Environmental and health effects
+Collaborative filtering; matrix factorization; recommender systems; Yahoo! Music
+Recommender systems; Literature review; Data mining technique; Classification
+Electronic books; iPad; e-Reader; Digital collections; User study
+Hypothermia; Cardiac arrest; Intensive care
+Technology adoption; Convergence; Change in product form; Utilitarian values; Experiential values; Digital books
+
+Ecosystem services; Science; Economics; Policy; Practice; Agenda
+
+Handover process; Information management; Information communication technology; Long term care; Safety
+
+Recommender system; eBook; Implicit feedback; Explicit feedback
+Lutra lutra; Population distribution; Monitoring; Season; Water availability; Management decisions
+social medicine; medical education; teaching concept; health goals
+Recommendation; diffusion; query suggestion; image recommendation
+cognitive-behavioral therapy; patient-physician relationship; quality of life; urinary incontinence; urologic diseases
+antenatal care; New Zealand; risk factors; small for gestational age; stillbirth
+recommendation algorithms; optimization; top-k query processing
+Storage assignment; Recurrent order; Repeat purchase; Cascaded warehouse configuration; Tooling storage; Automated warehouse systems
+emergency; haemophilia; platelet function disorders; rare bleeding disorders; von Willebrand's disease
+acute treatment; bipolar disorder; evidence-based review; guidelines; maintenance treatment; treatment
+
+Health in All Policies (HiAP); Integrated local health policy; Public health; Inter-sectoral collaboration; Obesity; Local coaching program
+
+
+Congenital abnormalities; Diabetes; Hyperglycaemia; Nephropathy; Preconception
+Content-based recommender systems; Single-class learning; Cost-sensitive learning; Positive example-based learning; Committee machine
+body mass index; pregnancy
+Service Blueprint; Preoperative Assessment; Process Optimization
+Codex Alimentarius; Bioavailability; Health claims; Nutrient reference values; World Trade Organization; WTO agreements
+ALS; breaking the diagnosis; bronchial secretions; caregiver; cognitive dysfunction; drooling; Evidence-based medicine; genetic counselling; nutrition; palliative care; terminal care; ventilation
+
+acoustics; educational courses; physics education; teaching
+HIV; human immunodeficiency virus; sexually transmitted diseases
+Revenue management; Network; Bid prices; Choice
+Networks; social networks; electronic commerce; recommender systems; Gini coefficient; long tail; influence; social media; Web 2.0
+Social skills; Autism; Asperger; Intervention; Training; High-functioning autism
+gabapentin enacarbil; restless legs syndrome; XP13512/GSK1838262
+reliability assessment; deterministic criteria; probabilistic criterion; severity index
+Information public good; Online recommendation; Consumer rating; Word-of-mouth communication; Altruism; Other-regarding behavior
+ELSI research; ethics; human genetics; human genomics; NHGRI
+Clostridium difficile; colitis; fidaxomicin; OPT-80
+Social networking; Recommender systems; Trust; User profiles; User generated content
+Recommender system; iterative-based collaborative filtering; clustering-based collaborative filtering; memory-based collaborative filtering
+Semantic Web Mining; Recommender Systems; Associative Classification
+Historical Bridges; Theoretical Analysis; Experiments; Diagnostics
+Public libraries; Health care; National Health Service; Evaluation; Public sector organizations; Occupational therapy; Literary forms; Evidence-based practice
+Manufacturing systems; Operations management; Operations masters; Interviews
+Accessibility; Disability; Rail; Mystery-shop
+Accessibility; Disability; Rail; Mystery-shop
+Automated trading; Machine learning; Algorithmic trading; Agent based economics; Trading agents; Boosting
+
+Recommender System; Open Directory Project; Social bookmarking; User modelling; Content based Recommender
+Electromagnetic induction; leakage currents; grounding; maintenance; magnetic fields; phase measurement; power distribution; standards
+Usability; Usability Testing; HMI; Train Driver; User Test
+Algorithm; Security; Rating system; trust mechanism; reputation system; recommender system
+Ergonomics; good project practices; conceptual design patterns; project; workstations
+cultural competence; health disparities; education
+
+Pig; Kidney; Transplantation
+
+Air entrapment; Cast alloy; Hot spot; Impeller casting; Numerical simulation; Porosity; Process modification
+mortality data sources; South Africa; civil registration; census; surveys; surveillance; data availability
+low rank approximation; recommender systems; bound constraints; matrix factorization; block coordinate descent method; scalable algorithm; block
+antiplatelet therapy; moyamoya disease; survey
+personalized; information filtering; simple Bayesian classifier; sparsity
+machine learning; segmentation; summarization; sentiment analysis
+Adiabatic; ampacity; cables; equipment grounding conductor (EGC); fault duration; ground faults; I(2)t; Joule integral; protective conductor; protective device
+Recommendation system; book; readability; K-12
+Multimedia recommender; rating; genre; review; popularity
+blockwise-adaptive attacks; CBC; ciphertext stealing; cryptographic standards; modes of operation; provable security
+Learning Objects (LO); Quality Metrics; Clustering; Self Organizing Map; K-mean; Ranking
+Knowledge management; intellectual capital; academic research; relevance; reference discipline; citation analysis
+recommendation; social network; coupled matrix factorization; mult-relational model; genetic algorithm
+composite items; online shops; e-commerce; recommendation systems
+Kernel smoothing; Ranked data; Recommender systems
+HIV; antenatal care; pregnancy; ethnicity
+
+Recommender system; repair process; interaction; argumentation; trust
+recommendation system; e-books; data mining; association rules
+Library; Book-acquisition; Text mining; Knowledge management
+Recommender Systems; Social Networks
+sustainability; indicator; Arabian Gulf
+Expert system (ES); scheduled wastes; management
+Digital microproducts; digital products; electronic word of mouth; eWOM; social proofs
+
+Warfarin; Drug toxicity; Herb-drug interactions; Food-drug interactions; Drug labeling
+Immunization; Vaccination; Shots; Vaccines; ACIP; STFM
+
+Information privacy; multi-theory; regulation; society; interdisciplinary
+
+Arab women; ethnicity; folic acid; immigration; neural tube defects; pregnancy
+public road; common good; record-keeping; registration; procedure; Republic of Croatia
+Antidepressive agents; Anesthesiology; Cholinergic syndrome; Serotonin syndrome; Imipramine; Monoamine oxidase inhibitors; Serotonin uptake inhibitors
+Classification; EU Regulations; UN GHS implementation; Hazardous chemicals; Labelling; WHO
+Countercurrent chromatography; Benzoic acid; Nomenclature; Terminology; Liquid-liquid exchanges; Dimerization; Ionization; Partition coefficient
+group B Streptococcus; early onset; diagnosis; prophylaxis; penicillin allergy; treatment
+
+Design science research; Group recommendation system; Online community; Term frequency-inverse document; frequency weights
+Conservation in practice; Conservation management; Conservation recommendations; Dadia National Park; Evidence-based conservation; Nature conservation; Policy; Protected areas
+
+
+kinetics; mathematical modeling; polymer; polymerization; reactor; structure-property relations; thermodynamics
+Google; Google Books Search Project; Google video search engine; Internet intermediaries regulation; Safe harbor; DMCA; Fair use
+board examination; clinical skills; education; European; junior Neurologist; training
+Recommendation Systems; Interaction; Intelligent e-book; Internet; Learning objects
+Health knowledge; attitudes; practice; social support; community networks; peer group; consumer health informatics; online communities; patient expertise; personalized health
+iron status; pregnancy; serum ferritin; transferrin receptor
+theory-driven evaluation; theory-based evaluation; evaluation theory; evaluation practice; research review
+Fasciotomy; Crotalinae; Snakebite; Envenomation; Compartment syndrome
+Critical thinking skills; elementary schools; newspaper activities; newspapers in education; science and technology courses
+Travel guidebooks; Leisure travelers; Information search
+Google; Google books search project; Google Video Search Engine; Internet intermediaries regulation; Safe harbor and DMCA; Fair use
+English medicine; 17th century; Sir Hugh Platt; headache disorders; migraine; Galen; natural therapeutics
+health promotion; quality assurance; health care; reading; literacy promotion; quality improvement
+rastreability; Prunus persica; Tranzschelia discolor; Monilinia fructicola; conformity; certification
+Manual Wheelchair; Artificial intelligence; Clinical research; Biomechanics; Sociology
+Burns; Resuscitation; Fluid therapy; Rehydration solutions; Algorithms
+calcaneal fracture; LCP; open reduction; epidemiology; demography
+
+Poverty; international children's picture books; qualitative research; content analysis
+Graph layout; Metadata remediation; Dynamic programming; Network alignment
+
+brain research; dissociation; left hemisphere; neurobiology; neuroscience; neural plasticity; psychotherapy; right hemisphere; Margaret Wilkinson
+Fluorine; fluoride; water; teeth; bone; thyroid; depression; pollution; health; non-fever illness; disease vector; poison; chemical; corrosion; hypertension; hip fractures; immune; calcium; osteoporosis; cancer; Alzheimer's; IQ deficits; kidney; stroke; arthritis; heart attack; mitochondrial poisoning
+Video-conferencing; Telemedicine; Telepsychiatry; Telestaff; Autism; Network
+Information literacy; Medical schools; Undergraduates; University libraries; Nigeria
+catalysis; glossary; IUPAC Organic and Biomolecular Chemistry Division; IUPAC Physical and Biophysical Chemistry Division; photocatalysis; photochemistry; radiation; radiative transfer; radiocatalysis
+Social Recommendation System; Social Networks Analysis; Microblogs; Target Marketing
+agent system; personalized; information recommendation system; information overload; intelligent recommender
+Canadian Standards Association - Sustainable Forestry Management; CSA-SFM; forest certification; Forest Stewardship Council; FSC; meta-analysis; public forests; SFI; sustainable forest management; Sustainable Forestry Initiative
+Semantic desktop; Personal information management; RDFS; Information extraction; Semantic web; Knowledge management
+nursing care plan; recommender system; data mining; correlation; information value; medical informatics; healthcare integrated information systems; healthcare enterprise-wide systems
+Recommender System; Collaborative Filtering; E-learning; Trust
+high yielding cows; computerized management systems; commercial dairy farms
+information retrieve; information filtering; recommender system; content-based filtering; item model
+search engine optimization; search engine marketing; website optimization
+Human Computer Interaction; Knowledge Management; E-Commerce; Opinion-Mining
+Personalized Guidance; Intelligent Library; Multi-Agent
+Environmental management; Environmental impact assessment; Infrastructural project; Sustainability science
+Convenience; Subjective norm; Online shopping; TAM; Hotel booking
+Ampacity; Adiabatic; Cables; Equipment Grounding Conductor; Ground-Faults; Fault duration; I(2)t; Joule Integral; Protective conductor; Protective device
+Diffusion of information; influential nodes; Shapley value; social networks; target set selection; top-k nodes; lambda-coverage
+
+Recommender Systems; Groups; Social Networks; Personality; Trust
+
+mobile learning; recommender system; adaptive; feedback; browsing behavior; preference thesaurus
+Class book-borrowing system; Reading attitude; Reading habit
+e-Picture book; e-Storybook; e-Book; Usability
+whiteness; literacy; critical race theory
+sports injury; expert system; injury diagnosis; rehabilitation recommendation
+Resource sharing; Consortia; Collections management; CARLI; I-Share; Monograph purchase; Academic libraries; United States of America
+
+
+recommender system; digital library; social network; collaborative filtering
+
+electronic archiving; electronic publication; effective publication; immutability; International Code of Botanical; Nomenclature; ISBN; ISSN; nomenclature; PDF; PDF/A
+Hip fracture; Secondary prevention; Bisphosphonates; Automated referral system
+
+categories of conservation; endangered species; extinction risk; threatened species; vulnerable species
+
+innovative business models for scholarly publishing; university presses; e-book electronic publishing; scholarly communication; marketing strategies
+Electronic commerce; E-marketing strategy; Intelligent shopping support (ISS)
+Assessed need; people with learning disabilities; referral; social work
+underweight; body mass index; congenital abnormalities; pregnancy
+Emergy; Exergy; Systems analysis; Second Law Environmental Indicators
+Security model; Security requirements; Information security; Electronic health records
+
+Plant parasites; Pests; Quarantine organisms; Weed control agents; Pathogen vectors; Eriophyoidea
+Amyl nitrite; Cyanide; Poisoning; Antidote; Pre-hospital
+
+
+
+Infectious diseases specialists; Ancient Rome; Varro; Columella; Vitruvius
+prevention concepts; pension insurance; rehabilitation
+National Humanities Alliance; open access; humanities and social science (HSS); journal economics; business models; US association publishing
+Accelerated partial breast irradiation; Patient selection; Brachytherapy; Systematic review
+Ecclesiastes; Freud; Pastoral theology; Enjoyment; Eunny P. Lee
+Symbolic healing; Chinese shamanistic healing; Spiritual medium; Dang-ki; Perceived helpfulness
+Genetic diversity; Conservation genetics; Effective population size; Founder effect; Mixed reproductive strategies
+Still image coding; Discrete transforms; Wavelet transform; Satellite application
+neural tube defects; folic acid; predictors; cohort study
+
+Personalized recommendation; Collaborative filtering; Rough-set; Social filtering; Content-based filtering
+child development; embryonic and foetal development; nutritional requirements; Premature infant feeding
+Africa; School libraries; Literacy; Malawi; Schools
+Children's literature; 100 Basic Literary Works; presentation of woman; sex roles; novel
+
+thermodynamics; thermodynamic properties; bond graphs; convection bond graphs; software
+Medical error; Patient safety; Clinical decision making; Intensive care
+Intelligent Recommendation; Internet bookstore; data mining; association rule; E-commerce
+Bayesian Network; Enviromental Aware; E-learning; Mobile Agent; Recommending Mechanisim; Learning Map
+Ecological; Economic; Social; South Africa; Transformation; Water Resource Classification System
+drug costs; dynamic efficiency; social costs; societal perspective
+
+Business development; Market share; Catering industry; United States of America
+Forestry Museum in Krasno; exhibit; written documentation; work equipment; forestry disciplines
+
+Books; Academic libraries; Taiwan; User studies; Electronic books
+recommender systems; matrix factorization; educational data mining; student performance prediction
+Electronic books; recommender system; feedback; implicit feedback
+Mechanical ventilation; Weaning; Intensive care unit; Artificial respiration
+
+clickstream analysis; adaptable web process analysis; online booking; online travel agency
+
+Information literacy; information competence; researcher competence; information resources; information retrieval
+
+RFID; Indoor Locating; Enviromental Aware; Customization Nevigationreadnig; Mobile Agent; Recommending Mechanisim; Ubiquitous Learning
+Big-width-library; Grey relational analysis (GRA); Evaluation
+RSV bronchiolitis; palivizumab; immunoprophylaxis
+Tea; compress; skin; dermatitis; antiinflammatory activity; antimicrobial activity; antitumor effect; anti-aging
+dietary practices; glycaemic index; women
+Postpartum haemorrhage; Active management; Third stage; Obstetric providers
+Recommender systems; Fuzzy linguistic modeling; University Digital Libraries
+
+
+Mechanical ventilation; Recruitment; Positive end expiratory pressure; Sustained inflation; Paediatric; Lung protective ventilation
+Customer relationship management; consumer support system; system development; object-oriented method
+Protection against Infection Act; Social Code Book; Standing committee; Vaccination recommendations; Health care service legislation
+influenza; novel influenza A (H1N1) virus; immunization; live-attenuated influenza vaccine; trivalent inactivated influenza vaccine; vaccine; children; pediatrics
+
+
+hull roughness; friction resistance; anticorrosive and antifouling coatings; fouling
+Fruit; TRS 364 Revision; Radionuclide; Deposition; Absorption; Translocation; Remobilisation; Root uptake
+
+Machining handbook data; Peripheral end milling; Cutting speed; Feed; Composite fitting model
+
+Human Factors; Social networks; trust; recommender systems
+Asia; body height; ethnic groups; pregnancy; preterm birth
+Popularity ranking; recommendation; suggestion; implicit user feedback; search query; social tagging
+Malignant ascites; ovarian cancer; catumaxomab; review
+Paper-based learning; Mobile learning; Line numbers
+Practice marketing; Group practice; Medical service center; Internet; Recall
+
+
+depression; Foucault; governmentality; liberalism; mental health; psychology; self-help; subjectivity
+
+
+
+
+Collaborative filtering; Recommender system; Workflow; Collaborative team
+History of medicine, 15th cent; medical illustration/history; pneumothorax/therapy; thoracic surgery/history
+arginine vasopressin; cardiopulmonary cerebral resuscitation; sepsis; septic shock
+Digital; Skills; Policy; Citizens
+
+methicillin-resistant Staphylococcus aureus; MRSA; community-associated methicillin-resistant Staphylococcus aureus; CA-MRSA; decolonization; colonization; carriage; mupirocin; chlorhexidine gluconate; rifampin; trimethoprim-sulfamethoxazole; tetracycline
+Intellectual critical evaluation; Phase equilibria; Al-Ta-Ti; Aluminium alloys; High temperature structural alloys
+deaf; prevention; cancer
+healthy steps; systematic review; pediatric care; anticipatory guidance; early childhood development
+Movie Recommendation; Movie Reviews; Cultural Metadata
+
+Collaborative filtering; sparsity; cold start problem; fuzzy radial basis function network
+
+
+
+Damian; Henrick Smit; Urine colors; Urine wheels; Uroscopy
+Authority; Book Retrieval; Popularity; Social Information Retrieval
+Recommender systems; Social Network Analysis; community analysis; community of practice; information visualization
+
+
+
+grocery shopping recommendation; basket sensitive random walk; popularity-based performance evaluation
+complex network; bipartite network; node weight; personal recommendation
+Customer service management; Information systems; Taiwan; Digital libraries
+warped document; document image; restoring
+Affect; Emotion; Filtering; Recommendation; Personalisation; Adaptive Retrieval
+Content-based Recommender Systems; Web 2.0; Folksonomy; Machine Learning; Semantics
+
+
+
+Collaborative tagging systems; Swarm Intelligence; Ant colony; pheromone updating; del.icio.us
+
+Social Media; Recommender Systems; Web 2.0; Tags
+
+Hydatidiform mole; Twin pregnancy; Placental abscess; Placenta praevia
+Electronic books; Electronic publishing; Publishers; Libraries
+multimedia learning; academic library; long tail
+
+Self-guide; Ant Colony Algorithm; Routing; Human-machine Interface
+Recommendation; tags; co-occurrence; distance measure
+Tag; social annotation; scale-free; small world; semantic relatedness; visualization; Del.icio.us
+Search Log Mining; Named Entity Recognition; Topic Model; Web Mining
+Collaborative Filtering; Recommendation System; Digital Library
+ARTMAP; data mining; database; library
+Infophysics; Personal Recommendation; Bipartite Networks; User-Object Networks; Diffusion
+collaborative filtering; recommender system; user clustering; item clustering
+Intelligence; IQ; Prisoner's dilemma; Cooperation; Cognitive ability
+Implantation; embryo quality; high-order multiple pregnancy; embryo transfer
+comparators; head-to-head trials; randomized active control trials; standard treatment
+
+C. McGinn; extensionalization; functional application; G. Bealer; P. Tichy; possible-world semantics; predication; simple type theory; transparent intensional logic
+recommender systems; auctions; marketplace; user evaluation
+herd behavior; informational influence; Internet bookstore
+obstetrics/gynecology; quality of care
+Accelerated ageing of paper; ASTM D6819 standard; Closed vessel ageing; Model cellulose paper; Acidic hydrolysis of cellulose; Kinetics of cellulose degradation
+antenatal care; clients; rural; WHO
+
+sexual assault; SARC; genitourinary medicine; Haven
+parody; satire; gender; media; masculinity; taste; television; Playboy magazine; 1950s
+amiodarone-induced hypothyroidism; hypothyroidism; potassium perchlorate; iodine; amiodarone
+e-business; online customer service; supporting services functionality; supporting services; service quality
+
+cancer communication; online communication; cancer disparities; health communication; interactive health communication; Internet communication; health literacy; language; diverse audiences; cultural communication; multicultural communication; review
+vascular diseases; lymphedema; venous thrombosis; stockings, compression; bandages; intermittent pneumatic compression devices; review
+recommender system; collaborative filtering; nearest neighbors
+health care; architecture; patient perception
+
+brand reputation; electronic word-of-mouth; odds ratios for review posting; on-line reviews
+spatial verification approaches; probability forecasts and ensemble verification; extreme events verification; operational verification; verification packages; user-oriented verification; value
+
+
+step counter; self-monitoring; '10,000 steps/day'
+acquired immunodeficiency syndrome; human immunodeficiency virus; syphilis
+natural science; relative pitch; advice; understanding science
+
+Social network; recommendation system; decision tree
+
+
+ubiquitous learning; context awareness; online learning community; traditional books
+Competencies; Regulation; Credentialing; Specialist practice
+Consortium; Activity-based costing; Consortium service charge; Super e-Book consortium; Consortium business operation
+accounting information system; information classificators; carriers of information; listings (videoframes); economic analysis
+
+
+algorithms; experimentation; measurement; collaborative filtering; recommendation systems
+knowledge management; scientific track record; R&D organization; SAP HCM; ontology; integrated KM platform
+
+Digital Library; academic library; web-based services
+
+
+Self-help; cognitive behaviour therapy; stepped care; readability; survey; clinical practice; bibliotherapy; depression
+plantar force; pressure center oscillation; schoolchildren
+Electronic books; Usage statistics; Assessment
+E-commerce; association mining; collaborative filtering; user interest module
+Knowledge diffusion; virtual Social-relationship networks; Power law; information entropy
+
+recommendation; collaborative filtering; cross domain
+
+Collaborative filtering; taxonomies; topic diversification; metrics
+assessment; assets approach; Convention on the Rights of the Child; development; education; human potential; international school psychology; interventions; locus of control; professional identity; social contract; special needs
+mass customization; taxonomy; content analysis; meta review; research strategy; application intensity
+environment; environmental education; environmental education curriculum; secondary education
+
+
+
+multimedia applications; quality of service; resource; reservation; routing
+depression; elderly; clinical guidelines; prevalence; primary care; assesment; treatment; suicide risk
+
+bull breeding soundness; certification; South Africa
+
+scientific models; modelling; nature of science; teaching models
+
+breast-feeding; breast milk; lactation; medication safety
+parameric correction; metameric indices; dimensionality reduction; metamerism; principal component analysis; independent component analysis
+adverse events; critically ill; intensive care unit; ICU readmissions; medical emergency teams; ICU liaison nurse; ICU follow-up; outreach teams
+
+American Indian/Alaska Native children; youths; families; Native Americans; American Indians risk factors; AI/AN child well-being; AI/AN high school dropouts; AI/AN child health indicators; AI/AN child economic indicators; poverty indicator; measures; outcomes; AI/AN survival indicators
+
+
+
+
+ranging; PN; PN sequences; deep space
+ranging; PN; PN-like; PN sequences; deep space
+endoscopic cordectomies classification; European Laryngological Society; glottic cancer
+flashing liquid jets; droplet dispersion; rainout; model validation
+influenza; vaccine; immunization; epidemiology; children; adolescents
+
+
+horse; biocompost; wood shavings; bedding material; air hygiene; respiratory health
+automation; Buffa; domain of production and operations management; engineering/operations interface; evolution of production and operations management; product development; quality management; supply chain management
+
+user profiling; matchmaking; recommender system; soft and strict constraints
+aphasia; emotions; history of neurology; Proust, Arcel; memory; psychosomatic disorders; Sollier, Paul
+biodiversity; bio-geographical differentiation; dynamic reference situation; land quality; land use; land use impacts; LCA; LCIA; natural environment; natural resources; site-dependency; soil quality
+
+digital libraries; data collection; electronic document delivery; libraries; cluster analysis; programming and algorithm theory
+recommendation system; Bayesian network; data mining
+
+
+clinical application; four-dimensional ultrasound; obstetric ultrasound; three-dimensional ultrasound
+
+book recommendation; web review retrieval; Web services
+authentic assessment; examinations; constructivism; ELearning
+inspection; systematic maintenance; prevention; plans; duty of care; management; access; log book
+
+
+
+polyneuropathy; neuropathy; cause; investigation
+recommender system; rating service; review service; mechanism design; incentive system
+classification; machine learning; naive Bayes; recommender; user profile; user control; multi-valued features
+
+e-Leaming; learning path/approach; data mining application
+ontologies; e-commerce; e-tourism; Semantic Web; travel ontology; trip ontology
+
+
+
+extreme precipitation events; precipitation probablities; generalised extreme value distribution; regional probablity weighted moments
+
+
+
+book recommendation; service model; data mining; association rule; apriori algorithm
+
+hemorrhage control; primary survey; trauma resuscitation; trauma surgery
+
+I-CARE project; chronic heart failure; therapeutic education
+
+adaptation; complexity; entropy; natural selection; self-organization; thermodynamics
+water management; river systems; irrigation; decision support systems; ecology; case reports
+
+vapor pressure; normal boiling point; enthalpy of vaporization; prediction
+
+
+indore composting; humus theory of plant nutrition; the Law of Return; organic agriculture; USDA Certified Organic
+knowledge management; mobile technology; PDA
+information fusion; global optimization; heuristic methods; evolutionary algorithms; genetic algorithm; evolution strategies; evolutionary; programming; genetic programming
+health screening; prevention; referrals
+floor-heating system; male fertility; ONDOL; scrotal temperature
+
+
+cerebral venous thrombosis; diagnosis; heparin treatment; outcome; thrombolysis
+healthcare provider; physician; smoking; intervention; adolescents
+restraining order; firearms; domestic violence; firearms prohibition
+cellular manufacturing; cell formation; similarity coefficient; taxonomy
+testosterone; hypogonadism; erection; erectile function; erectile dysfunction
+
+
+diagnosis; metabolism; metaphylaxis; nephrocalcinosis; nephrolithiasis
+
+
+NS history of German and Austrian anatomy; body acquisition; ethics in anatomy
+
+presentation; international conference; question; answer; miscommunication; politeness; non-native; Japanese
+recommender systems; advice seeking; social networking; decision making
+recommender system; emotion model; emotion states
+
+
+case-based reasoning; digital library; computer supported collaborative learning; web services; recommendation
+
+cold-start problem; collaborative filtering; recommendation systems; sparsity problem; personalization
+culture; ethotic representation; latent semantics; recommender system; semantic mediation; social networks; user modeling
+
+
+
+
+
+
+
+noise control; shielding; filtering; electromagnetic compatibility (EMC); bonding; grounding; Programmable Logic Controller (PLC); Computerized Numerical Controller (CNC)
+cleaners; musculoskeletal ill health; work organisation; scheduling; workload; social support networks
+equipotential plane(s); multigrounded neutral electrical distribution system(s)
+history; neonatal jaundice; therapy
+knowledge management; knowledge management publications; citation analysis; topical emphasis; scholarly communication; theory development; doctoral dissertations
+analysts; earnings guidance; Regulation Fair Disclosure (Reg FD); voluntary disclosure
+brain death; apnea testing; respiration; artificial ventilation; blood gas check
+
+breast cancer; psychosocial factors
+
+
+
+
+
+ureteric stents; renal transplantation; meta-analysis
+
+
+
+
+
+
+
+
+central nervous system; diagnosis; encephalitis; guidelines; therapy; virus
+data classes; database conceptual design; entity diagrams; heuristic development; unified modeling language
+
+
+compress; handheld; searching compressed text; PDA; string matching; pattern
+
+
+cleaners; musculoskeletal ill health; participative approach; buffing; mopping; vacuuming
+exposure, population; dose assessment; naturally occurring radionuclides; dose, external
+thermoeconomy; mechanical vapour compression; optimisation energy; environment
+facility survey; infrastructure; personnel; activity
+preoperative evaluation; intraoperative management; postoperative management; pain management; sleep apnea
+triethylene glycol; water; water dew point; water content; CEoS; TST; cubic equation of state; excess energy mixing rule; activity coefficient; gas dehydration
+
+reference condition approach (RCA); bioassessment; site classification; test site analysis (TSA); stressor identification
+pediatrics; admission; discharge; length of stay
+
+recommender system; collaborative filtering; link prediction
+
+
+electronic books; Internet; user interfaces; information searches
+trust and risk; ad-hoc collaboration; unobtrusive security; ubiquitous computing
+Dutch book; incoherence; Jeffreys prior; multivariate analysis; objective prior; prediction; strong inconsistency; uninformative prior
+
+operations management; securities and real options; car rentals; airlines
+cross-sectional survey; health services accessibility; interviews; prostitution; sexually transmitted diseases
+DRI; nutrient calculation programs; graphic display; software
+
+
+
+Latin American science; outstanding researchers; influential books; main journals; sexual inequality
+exercise book; methodology of ICT application; operations research and management science; Internet; information and communication technology; simulation
+
+
+
+recommender system; collaborative filtering; personalization; data mining; travel & tourism
+
+
+inference; intelligent agents; electronic profiling; personalization; user preferences; reinforcement learning; interactive learning; experience
+
+
+
+Recommendation Systems; learning style; intelligent agent; pyramid collaborative filtering
+
+
+
+type 1 diabetes; intensive insulin therapy; computer
+calcareous fen; cattle grazing; clonal growth; fen meadow; growth form; pasture; plant functional type; reproduction; species composition; species trait
+consumer surplus; product variety; electronic commerce; welfare; Internet
+internal fixation; pelvis; open-book fracture; biomechanics
+contract theory; digital products; information goods; moral rent; movie piracy; pricing; technology standards; vertical segmentation
+bonding; electronic system grounding; grounding; lightning protection grounding; radio-frequency grounding; signal reference structure (SRS)
+intranet; usability; schema; higher education; design; Web
+
+aeroallergen; air sampling; Der p 1; dust; indoor allergen; mites
+
+
+type 1 diabetes mellitus; childhood diabetes; blood glucose monitoring
+
+oncology day care; staff-patient ratios; staffing allocation; psychosocial care; patient education; action research
+children; anxiety; distress; preoperative preparation
+
+
+document supply; developing countries; interlending; Nigeria; publishing
+
+
+
+ankle injuries; kinesthesia; proprioception; position sense; sprains
+
+hydraulic resistance; Manning's n; riparian vegetation; floodplain roughness
+alcohol drinking; fetal alcohol syndrome; obstetrics; pregnancy
+abnormal illness behaviour; epilepsy; photosensitivity; self-induced epileptic seizures; treatment refractory epilepsy
+
+hyperthelia; polythelia; hypermastia; extra teats; Bos taurus
+guidelines; primary health care; computer-assisted decision support
+
+personalized information services; agent-based systems; web intelligence; intelligent Internet applications
+
+
+
+user studies; information retrieval; Singapore
+corporal punishment; discipline; parenting; physical punishment; spanking
+
+
+
+
+
+biodiversity maintenance; elephant impacts; grazing impacts; reserve design; threatened flora
+
+breast cancer; antioxidants; fibre; phyto-estrogens
+
+
+
+
+eXtensible Markup Language; XML schema definition; clinical practice guidelines; evaluation; implementation; presentation; style sheets
+
+
+Birnbaum measure of reliability importance; increasing failure rate; structure function; system reliability
+sovereign debt; debt service repudiation model; borrowers pay-off; western debt service relief to Russia
+vocabulary; preschool; AAC; language
+medications; antibiotic policy; antimicrobials; control; diseases; pork; production; LSO 2000
+Meijer G-function; hypergeometric functions; series expansion; Mellin-Barnes integrals
+antidote; children; off-label
+ADD; ADHD; biofeedback; EEG biofeedback
+
+
+
+
+
+
+conditional model; preliminary test; response surface; sequential test; simulation
+quality assessment; review articles; practice guidelines; infections; older people
+
+
+
+
+
+
+
+
+
+
+
+nitrates; losses from soil; nitrogen fertilizers; manures; policy; diffusion of information; farmers; UK
+radiotherapy; cost; management
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bulimia; bulimia interventions; interpersonal influence; threat; efficacy
+
+
+amyloid; apoptosis; calorie restriction; diet; glucose; neurotrophic factor
+
+HIV; meta-analysis; dapsone; survival
+
+
+plant extracts; medicine, herbal; respiratory tract infections; botanicals; phytomedicine
+
+
+folic acid; peri-conceptional; neural tube defects; Dublin
+
+nutrition books for general practitioners; modern diet for secondary prevention of coronary heart disease
+
+conservation planning; fragmented landscape; fynbos; South Africa
+transverse lie; perinatal; maternal; morbidity; mortality
+voice-activated technology; driving simulator
+starch; wheat; varieties; conditions of cultivation
+
+ditch; Red Data Book; water beetle
+warehousing; case studies; through-put time; just in-time; TQM
+metaanalyses; quality of life; rheumatic diseases
+
+movies; decision support systems; retailing; scheduling; integer programming
+antenatal care; audit; bloodpressure recording; laboratory tests; ultrasonography
+
+
+
+
+
+
+
+
+advanced practice nursing; health policy; health reform; nursing
+
+
+
+
+
+
+
+
+SELF-CARE; SELF-HELP BOOKS; BIBLIOTHERAPY
